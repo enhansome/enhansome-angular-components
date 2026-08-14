@@ -1,0 +1,1999 @@
+{
+  "items": [
+    {
+      "description": "Overlay / modal / alert / dialog / lightbox / popup",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "angular2-modal",
+          "description": "Angular2 Modal / Dialog window.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-12-21T05:24:38Z",
+            "owner": "shlomiassaf",
+            "repo": "ngx-modialog",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-bs3-modal",
+          "description": "Angular2 Bootstrap3 Modal Component.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-09-07T13:02:28Z",
+            "owner": "dougludlow",
+            "repo": "ng2-bs3-modal",
+            "stars": 257
+          }
+        }
+      ],
+      "title": "Overlay"
+    },
+    {
+      "description": "Toaster / snackbar — Notify the user with a modeless temporary little popup",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ngx-toastr",
+          "description": "Angular 2 toastr.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T17:00:36Z",
+            "owner": "scttcper",
+            "repo": "ngx-toastr",
+            "stars": 2588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-notifications",
+          "description": "A light and easy to use notifications library for Angular 2. It features both regular page notifications (toasts) and push notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-01T16:29:41Z",
+            "owner": "flauc",
+            "repo": "angular2-notifications",
+            "stars": 743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-toaster",
+          "description": "Angular2-toaster is an asynchronous, non-blocking Angular2 Toaster Notification library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-25T21:26:27Z",
+            "owner": "Stabzs",
+            "repo": "Angular2-Toaster",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-toasty",
+          "description": "Angular2 Toasty component shows growl-style alerts and messages for your app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-08-25T19:52:28Z",
+            "owner": "akserg",
+            "repo": "ng2-toasty",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-notifier",
+          "description": "A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular 2+ application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-08T17:37:50Z",
+            "owner": "itsdevdom",
+            "repo": "angular-notifier",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-notifications",
+          "description": "Angular 2 Component for Native Push Notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-12T18:01:58Z",
+            "owner": "alexcastillo",
+            "repo": "ng2-notifications",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ngrx/notify",
+          "description": "Web Notifications Powered by RxJS for Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-01-11T21:47:27Z",
+            "owner": "ngrx",
+            "repo": "notify",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-toastr",
+          "description": "Bootstrap style toast for modern angular (v2.0.0 and above).",
+          "children": []
+        }
+      ],
+      "title": "Notification"
+    },
+    {
+      "description": "Table / Data Grid — Display (large) datasets",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@swimlane/ngx-datatable",
+          "description": "A feature-rich yet lightweight data-table crafted for Angular2 and beyond.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T04:04:02Z",
+            "owner": "swimlane",
+            "repo": "ngx-datatable",
+            "stars": 4671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-smart-table",
+          "description": "Angular 2 Smart Data Table component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-12T16:52:31Z",
+            "owner": "akveo",
+            "repo": "ng2-smart-table",
+            "stars": 1620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-table",
+          "description": "Simple table extension with sorting, filtering, paging... for Angular2 apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-26T15:57:10Z",
+            "owner": "valor-software",
+            "repo": "ng2-table",
+            "stars": 544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-easy-table",
+          "description": "The easiest Angular2 table.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-01-22T17:30:22Z",
+            "owner": "ssuperczynski",
+            "repo": "ngx-easy-table",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-handsontable",
+          "description": "Angular 2 directive for Handsontable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-07-05T07:38:18Z",
+            "owner": "valor-software",
+            "repo": "ng2-handsontable",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-datatable",
+          "description": "DataTable - Simple table component with sorting and pagination for Angular2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-09-03T12:46:13Z",
+            "owner": "mariuszfoltak",
+            "repo": "angular2-datatable",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ag-grid-angular",
+          "description": "Ag-Grid Angular 2 Component.",
+          "children": []
+        }
+      ],
+      "title": "Table"
+    },
+    {
+      "description": "Visualize data as a tree",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "angular2-tree-component",
+          "description": "A simple yet powerful tree component for Angular2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-17T21:58:55Z",
+            "owner": "CirclonGroup",
+            "repo": "angular-tree-component",
+            "stars": 1098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-tree",
+          "description": "Angular2 component for visualizing data that can be naturally represented as a tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-30T23:04:24Z",
+            "owner": "valor-software",
+            "repo": "ng2-tree",
+            "stars": 345
+          }
+        }
+      ],
+      "title": "Tree"
+    },
+    {
+      "description": "Let the user know that something is being loaded",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ngx-progressbar",
+          "description": "Angular progress bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T12:01:34Z",
+            "owner": "MurhafSousli",
+            "repo": "ngx-progressbar",
+            "stars": 1054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-slim-loading-bar",
+          "description": "Angular 2 component shows slim loading bar at the top of the page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-12-30T07:52:02Z",
+            "owner": "akserg",
+            "repo": "ng2-slim-loading-bar",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-busy",
+          "description": "Show busy/loading indicators on any promise, or on any Observable's subscription.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-10-02T17:40:42Z",
+            "owner": "devyumao",
+            "repo": "angular2-busy",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-ladda",
+          "description": "Angular 2 Ladda module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-17T10:37:34Z",
+            "owner": "moff",
+            "repo": "angular2-ladda",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng-spin-kit",
+          "description": "SpinKit ( spinners for Angular 2+.",
+          "children": []
+        }
+      ],
+      "title": "Loading / Progress Indicators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ngx-charts",
+          "description": "Declarative Charting Framework for Angular2 and beyond.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:44:33Z",
+            "owner": "swimlane",
+            "repo": "ngx-charts",
+            "stars": 4361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-charts",
+          "description": "Beautiful charts for Angular2 based on Chart.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-05T12:38:00Z",
+            "owner": "valor-software",
+            "repo": "ng2-charts",
+            "stars": 2401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-highcharts",
+          "description": "Highcharts for your Angular2 project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-08-25T14:08:18Z",
+            "owner": "gevgeny",
+            "repo": "angular2-highcharts",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-nvd3",
+          "description": "Angular2 component for nvd3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-18T19:30:14Z",
+            "owner": "krispo",
+            "repo": "ng2-nvd3",
+            "stars": 324
+          }
+        }
+      ],
+      "title": "Charts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "angular2-google-maps",
+          "description": "Angular 2+ Google Maps Components.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-06-06T13:27:05Z",
+            "owner": "sebholstein",
+            "repo": "angular-google-maps",
+            "stars": 2026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-map",
+          "description": "Angular2 Google Maps Directives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-03-21T13:29:35Z",
+            "owner": "ng2-ui",
+            "repo": "map",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-esri4-components",
+          "description": "A set of Angular 2 components to work with ArcGIS API for JavaScript v4.1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-05-20T13:20:29Z",
+            "owner": "TheKeithStewart",
+            "repo": "angular-esri-components",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Map"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng2-markdown-to-html",
+          "description": "Angular 2 markdown component/directive to parse static or remote content to html.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T11:59:13Z",
+            "owner": "jfcere",
+            "repo": "ngx-markdown",
+            "stars": 1191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngx-no-animation-for-dinosaur",
+          "description": "Simple solution for disabling animation for certain old browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-05-09T06:28:15Z",
+            "owner": "maxisam",
+            "repo": "ngx-no-animation-for-dinosaur",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-inline-editor",
+          "description": "Native UI Inline-editor Angular2 component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-06-01T18:13:03Z",
+            "owner": "Caballerog",
+            "repo": "ng2-inline-editor",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "Let the user create & edit data",
+      "items": [],
+      "title": "Form"
+    },
+    {
+      "description": "Time Picker / Datetime Picker",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng2-date-picker",
+          "description": "Highly configurable date picker built for Angular 2 applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-15T10:27:20Z",
+            "owner": "vlio20",
+            "repo": "angular-datepicker",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-datepicker",
+          "description": "Angular2 Datepicker Component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-04T06:28:29Z",
+            "owner": "bleenco",
+            "repo": "ng2-datepicker",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-datetime",
+          "description": "Datetime picker plugins wrapper for Angular2.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-10-05T12:38:54Z",
+            "owner": "nkalinov",
+            "repo": "ng2-datetime",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-material-datepicker",
+          "description": "A minimalist datepicker inspired by Google's material design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-10-10T01:09:01Z",
+            "owner": "kevinoleary19",
+            "repo": "Angular-2-Datepicker",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mydatepicker",
+          "description": "Angular2 date picker.",
+          "children": []
+        }
+      ],
+      "title": "Date Picker"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ngx-color-picker",
+          "description": "Color picker widget for Angular 2+.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-28T16:51:35Z",
+            "owner": "zefoy",
+            "repo": "ngx-color-picker",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-color-picker",
+          "description": "Angular 2 Color Picker Directive, no dependences required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-01-02T18:14:16Z",
+            "owner": "Alberplz",
+            "repo": "angular2-color-picker",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-color-picker",
+          "description": "Simple color picker for Angular 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-09-21T11:30:56Z",
+            "owner": "AndyMeps",
+            "repo": "ng2-color-picker",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Color Picker"
+    },
+    {
+      "description": "Let the user choose from a list of options",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng2-select",
+          "description": "Angular2 based replacement for select boxes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-20T20:20:14Z",
+            "owner": "valor-software",
+            "repo": "ng2-select",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-select",
+          "description": "A native angular 2 select component (based on select2).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-01-19T10:35:00Z",
+            "owner": "basvandenberg",
+            "repo": "ng-select",
+            "stars": 289
+          }
+        }
+      ],
+      "title": "Select"
+    },
+    {
+      "description": "Autosuggest / autocomplete / typeahead",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng2-completer",
+          "description": "Angular 2 autocomplete component.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-08-28T14:05:27Z",
+            "owner": "oferh",
+            "repo": "ng2-completer",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-auto-complete",
+          "description": "Angular2 Auto Complete.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T06:04:08Z",
+            "owner": "ng2-ui",
+            "repo": "auto-complete",
+            "stars": 279
+          }
+        }
+      ],
+      "title": "Autocomplete"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng2-dragula",
+          "description": "Simple drag and drop with dragula.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-06T15:39:12Z",
+            "owner": "valor-software",
+            "repo": "ng2-dragula",
+            "stars": 1907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-dnd",
+          "description": "Angular 2 Drag-and-Drop without dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-08T16:27:01Z",
+            "owner": "akserg",
+            "repo": "ng2-dnd",
+            "stars": 831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng-drag-drop",
+          "description": "Angular 4 Drag & Drop based on HTML5 with no external dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-07T03:42:12Z",
+            "owner": "ObaidUrRehman",
+            "repo": "ng-drag-drop",
+            "stars": 240
+          }
+        }
+      ],
+      "title": "Drag and Drop"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "angular2-text-mask",
+          "description": "Input mask for React, Angular, Ember, Vue, & plain JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-26T18:32:18Z",
+            "owner": "text-mask",
+            "repo": "text-mask",
+            "stars": 8217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soft-angular-mask",
+          "description": "Directive to masquerade input in angular 2/4 (money and number).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-24T17:38:04Z",
+            "owner": "renatosistemasvc",
+            "repo": "soft-angular-mask",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Masked Input"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng2-ckeditor-codemirror",
+          "description": "Angular2 CKEditor component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-09T03:32:49Z",
+            "owner": "yabab-dev",
+            "repo": "ng2-ckeditor",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-froala-wysiwyg",
+          "description": "AngularJS2 bindings for Froala WYSIWYG HTML Rich Text Editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T12:35:19Z",
+            "owner": "froala",
+            "repo": "angular-froala-wysiwyg",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-voog-wysihtml",
+          "description": "Voog wysihtml wrapper for Angular 2.",
+          "children": []
+        }
+      ],
+      "title": "Rich Text Editor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng2-file-upload",
+          "description": "Easy to use Angular2 components for files upload.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-05T14:16:42Z",
+            "owner": "valor-software",
+            "repo": "ng2-file-upload",
+            "stars": 1900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-dropzone-wrapper",
+          "description": "Angular 2 wrapper library for dropzone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-09T19:49:11Z",
+            "owner": "zefoy",
+            "repo": "ngx-dropzone-wrapper",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngx-uploader",
+          "description": "Angular File Uploader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-01T15:16:00Z",
+            "owner": "jkuri",
+            "repo": "ngx-uploader",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "File Upload"
+    },
+    {
+      "description": "Show & edit events in a calendar view",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "angular2-calendar",
+          "description": "A flexible calendar component for angular 2.0+ that can display events on a month, week or day view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-08T15:19:00Z",
+            "owner": "mattlewis92",
+            "repo": "angular-calendar",
+            "stars": 2824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-fullcalendar",
+          "description": "An Angular 2 component for fullcalendar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-05-26T15:34:53Z",
+            "owner": "nekken",
+            "repo": "ng2-fullcalendar",
+            "stars": 94
+          }
+        }
+      ],
+      "title": "Calendar"
+    },
+    {
+      "description": "Set of components + responsive layout system",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@ng-bootstrap/ng-bootstrap",
+          "description": "Angular powered Bootstrap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T14:39:41Z",
+            "owner": "ng-bootstrap",
+            "repo": "ng-bootstrap",
+            "stars": 8232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clarity-angular",
+          "description": "Clarity Design System: UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-03-16T01:37:07Z",
+            "owner": "vmware-archive",
+            "repo": "clarity",
+            "stars": 6393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-bootstrap",
+          "description": "Native Angular directives for Bootstrap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T08:43:35Z",
+            "owner": "valor-software",
+            "repo": "ngx-bootstrap",
+            "stars": 5517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@covalent/core",
+          "description": "Teradata UI Platform built on Angular-Material 2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T02:41:33Z",
+            "owner": "Teradata",
+            "repo": "covalent",
+            "stars": 2223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng-semantic",
+          "description": "Angular 2 building blocks based on Semantic UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-04-16T13:48:03Z",
+            "owner": "vladotesanovic",
+            "repo": "ngSemantic",
+            "stars": 964
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-semantic-ui",
+          "description": "Semantic UI Angular 2 Integrations -- no JQuery required --.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-10-01T14:47:12Z",
+            "owner": "edcarroll",
+            "repo": "ng2-semantic-ui",
+            "stars": 609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-materialize",
+          "description": "Angular 2 support for Materialize CSS framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-04-29T22:59:11Z",
+            "owner": "InfomediaLtd",
+            "repo": "angular2-materialize",
+            "stars": 402
+          }
+        }
+      ],
+      "title": "Responsive"
+    },
+    {
+      "description": "Set of components without layout system",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@angular/material",
+          "description": "Official Material Design components for Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:23:35Z",
+            "owner": "angular",
+            "repo": "components",
+            "stars": 25036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "primeng",
+          "description": "UI Components for Angular 2.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-06-28T23:06:14Z",
+            "owner": "primefaces",
+            "repo": "primeng",
+            "stars": 12501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng-zorro-antd",
+          "description": "An enterprise-class UI components based on Ant Design and Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T02:35:29Z",
+            "owner": "NG-ZORRO",
+            "repo": "ng-zorro-antd",
+            "stars": 9168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng-lightning",
+          "description": "Native Angular 2 components & directives for Lightning Design System.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-03T18:59:06Z",
+            "owner": "ng-lightning",
+            "repo": "ng-lightning",
+            "stars": 915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "igniteui-js-blocks",
+          "description": "Mobile-first Angular native components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:05:57Z",
+            "owner": "IgniteUI",
+            "repo": "igniteui-angular",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "devextreme-angular",
+          "description": "Angular 2 UI and visualization components based on DevExtreme widgets.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-03-02T08:25:51Z",
+            "owner": "DevExpress",
+            "repo": "devextreme-angular",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-mdl",
+          "description": "Angular 2 components, directives and styles based on material design lite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T02:51:39Z",
+            "owner": "mseemann",
+            "repo": "angular2-mdl",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "md2",
+          "description": "Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-03-26T14:49:56Z",
+            "owner": "Promact",
+            "repo": "md2",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuel-ui",
+          "description": "UI Components for use with Angular2 and Bootstrap4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-14T15:45:48Z",
+            "owner": "FuelInteractive",
+            "repo": "fuel-ui",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "igniteui-angular2",
+          "description": "Ignite UI directives for Angular 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-26T12:40:30Z",
+            "owner": "IgniteUI",
+            "repo": "igniteui-angular-wrappers",
+            "stars": 150
+          }
+        }
+      ],
+      "title": "Component Collections"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ionic2",
+          "description": "Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T02:47:41Z",
+            "owner": "ionic-team",
+            "repo": "ionic-framework",
+            "stars": 52617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-onsenui",
+          "description": "Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T03:34:27Z",
+            "owner": "OnsenUI",
+            "repo": "OnsenUI",
+            "stars": 8860
+          }
+        }
+      ],
+      "title": "Mobile"
+    },
+    {
+      "description": "Data flow / data store / data flow",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@ngrx/store",
+          "description": "RxJS powered state management for Angular applications, inspired by Redux.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2017-11-27T12:55:33Z",
+            "owner": "ngrx",
+            "repo": "store",
+            "stars": 3867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@angular-redux/store",
+          "description": "Angular 2 bindings for Redux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-05-05T16:20:29Z",
+            "owner": "angular-redux",
+            "repo": "store",
+            "stars": 1330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mobx-angular",
+          "description": "MobX connector to Angular 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-09T22:51:49Z",
+            "owner": "mobxjs",
+            "repo": "mobx-angular",
+            "stars": 482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ngx-config/core",
+          "description": "Configuration utility for Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-21T01:09:42Z",
+            "owner": "fulls1z3",
+            "repo": "ngx-config",
+            "stars": 144
+          }
+        }
+      ],
+      "title": "Data Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ngx-pipes",
+          "description": "Useful pipes for Angular 2 and beyond with no external dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-10T20:54:55Z",
+            "owner": "danrevah",
+            "repo": "ngx-pipes",
+            "stars": 1571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-pipes",
+          "description": "Useful pipes for Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-12-06T13:00:44Z",
+            "owner": "fknop",
+            "repo": "angular-pipes",
+            "stars": 725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng-pipes",
+          "description": "Bunch of useful pipes for Angular2 (with no external dependencies!).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-08T17:31:42Z",
+            "owner": "a8m",
+            "repo": "ng-pipes",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-linky",
+          "description": "Linky pipe for angular2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-11-22T09:44:28Z",
+            "owner": "dzonatan",
+            "repo": "ngx-linky",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Pipes"
+    },
+    {
+      "description": "Utilities to help create HTML forms",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng-formly",
+          "description": "JavaScript powered FORMS for ANGULAR 2.x and above.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T20:00:10Z",
+            "owner": "ngx-formly",
+            "repo": "ngx-formly",
+            "stars": 2965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-schema-form",
+          "description": "Angular2 Schema Form (DISCLAIMER: it is not related to angular-schema-form).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T21:04:24Z",
+            "owner": "guillotinaweb",
+            "repo": "ngx-schema-form",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ultimate/ngxerrors",
+          "description": "A declarative validation module for reactive forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-06T23:54:51Z",
+            "owner": "ultimatecourses",
+            "repo": "ngx-errors",
+            "stars": 460
+          }
+        }
+      ],
+      "title": "Form"
+    },
+    {
+      "description": "Utilities to consume APIs",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ngx-restangular",
+          "description": "Restangular for Angular 2+ and higher versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T01:33:37Z",
+            "owner": "2muchcoffeecom",
+            "repo": "ngx-restangular",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-rest",
+          "description": "Angular2 HTTP client to consume RESTful services. Built with TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-11-12T10:59:18Z",
+            "owner": "Paldom",
+            "repo": "angular2-rest",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-rest-api",
+          "description": "Rest API provider for angular 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-11-07T09:25:14Z",
+            "owner": "zaqqaz",
+            "repo": "ng2-rest-api",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-resource-rest",
+          "description": "Resource (REST) Client for Angular 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-08T12:42:57Z",
+            "owner": "troyanskiy",
+            "repo": "ngx-resource",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-jsonapi",
+          "description": "A lightweight Angular 2 adapter for JSON API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-02T12:14:30Z",
+            "owner": "ghidoz",
+            "repo": "angular2-jsonapi",
+            "stars": 198
+          }
+        }
+      ],
+      "title": "API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "angular-oauth2-oidc",
+          "description": "Support for OAuth 2 and OpenId Connect (OIDC) in Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-05T09:19:08Z",
+            "owner": "manfredsteyer",
+            "repo": "angular-oauth2-oidc",
+            "stars": 1981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-oauth2",
+          "description": "AngularJS OAuth2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-22T07:12:21Z",
+            "owner": "oauthjs",
+            "repo": "angular-oauth2",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-token",
+          "description": "Token based authentication service for Angular2 (ng2) with multi-user support. Works best with the devise token auth gem for Rails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-22T14:49:04Z",
+            "owner": "neroniaky",
+            "repo": "angular-token",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-ui-auth",
+          "description": "An angular2 repository for authentication based on angular1's satellizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-04T06:03:16Z",
+            "owner": "ronzeidman",
+            "repo": "ng2-ui-auth",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ngx-auth/core",
+          "description": "Authentication utility for Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-21T01:09:46Z",
+            "owner": "fulls1z3",
+            "repo": "ngx-auth",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Authentication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng2-page-scroll",
+          "description": "Animated scrolling functionality written in pure angular2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-16T08:45:33Z",
+            "owner": "Nolanus",
+            "repo": "ngx-page-scroll",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-scrollspy",
+          "description": "Angular2 ScrollSpy Service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-08-22T17:46:17Z",
+            "owner": "JonnyBGod",
+            "repo": "ngx-scrollspy",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ngui/scrollable",
+          "description": "Angular2 Automatic Scroll Detection With Animation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-18T15:24:43Z",
+            "owner": "ng2-ui",
+            "repo": "scrollable",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Scroll"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng2-webstorage",
+          "description": "Localstorage and sessionstorage manager - angular2 service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-19T17:39:02Z",
+            "owner": "PillowPillow",
+            "repo": "ng2-webstorage",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-localstorage",
+          "description": "Angular2 decorator to save and restore variables/class properties to HTML5 LocalStorage automatically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-10-02T08:17:57Z",
+            "owner": "marcj",
+            "repo": "angular2-localstorage",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ngx-cache/core",
+          "description": "Cache utility for Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-21T01:09:44Z",
+            "owner": "fulls1z3",
+            "repo": "ngx-cache",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-safeguard",
+          "description": "Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-27T15:28:57Z",
+            "owner": "MikaAK",
+            "repo": "angular-safeguard",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Persistence"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng2-breadcrumb",
+          "description": "This is an angular 2 component that creates a breadcrumb trail. It hooks into the angular2/router, to dynamically build up the crumb trail once a component is routed to.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-02-09T14:47:23Z",
+            "owner": "gmostert",
+            "repo": "ng2-breadcrumb",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-page-transition",
+          "description": "Simple Angular2 component to create a page transition animation on route changes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2017-05-20T17:03:06Z",
+            "owner": "bergben",
+            "repo": "ng2-page-transition",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ngx-i18n-router/core",
+          "description": "Route internationalization utility for Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-11-19T21:01:45Z",
+            "owner": "fulls1z3",
+            "repo": "ngx-i18n-router",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Routing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng2-validation",
+          "description": "Angular2 validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-10T20:32:48Z",
+            "owner": "yuyang041060120",
+            "repo": "ng2-validation",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng-validators",
+          "description": "A List of validators for Angular 2+ Forms based on validator.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-16T18:10:10Z",
+            "owner": "gangachris",
+            "repo": "ng-validators",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Validation"
+    },
+    {
+      "description": "Internationalization / L10n / localization / translation",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@ngx-translate/core",
+          "description": "The internationalization (i18n) library for Angular 2+.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T05:55:18Z",
+            "owner": "ngx-translate",
+            "repo": "core",
+            "stars": 4660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-l10n",
+          "description": "An Angular 2 library to translate messages, dates and numbers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-18T08:32:26Z",
+            "owner": "robisim74",
+            "repo": "angular-l10n",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ngx-universal/translate-loader",
+          "description": "Loader for @ngx-translate that provides translations to browser/server platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-04-17T15:48:28Z",
+            "owner": "fulls1z3",
+            "repo": "ngx-translate",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "i18n"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "angular2-logger",
+          "description": "A log4j inspired logger for angular 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-02-12T22:50:42Z",
+            "owner": "code-chunks",
+            "repo": "angular2-logger",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@nsalaun/ng2-logger",
+          "description": "Angular 2 logger service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T02:28:01Z",
+            "owner": "noemi-salaun",
+            "repo": "ng-logger",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "Utilities for building / bundling / loading assets",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "plugin-typescript",
+          "description": "TypeScript loader for SystemJS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-11-07T17:47:22Z",
+            "owner": "frankwallis",
+            "repo": "plugin-typescript",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-template-loader",
+          "description": "Chain-to loader for webpack that inlines all html and style's in angular2 components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-21T12:34:54Z",
+            "owner": "TheLarkInn",
+            "repo": "angular2-template-loader",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-router-loader",
+          "description": "A Webpack loader that enables string-based module loading with the Angular Router.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-15T06:33:00Z",
+            "owner": "brandonroberts",
+            "repo": "angular-router-loader",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-inline-ng2-template",
+          "description": "Gulp plugin to inline HTML and CSS into Angular 2 component decorators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-21T14:55:54Z",
+            "owner": "ludohenin",
+            "repo": "gulp-inline-ng2-template",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-hot-loader",
+          "description": "Angular 2 hot loader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-01-19T01:40:07Z",
+            "owner": "mgechev",
+            "repo": "angular2-hot-loader",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "Asset management"
+    },
+    {
+      "description": "Set meta tags, , children of",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@ngx-meta/core",
+          "description": "Dynamic page title & meta tags utility for Angular (w/server-side rendering).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-10T17:17:00Z",
+            "owner": "fulls1z3",
+            "repo": "ngx-meta",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-meta",
+          "description": "Dynamic meta tags and SEO in Angular2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-07-03T16:19:38Z",
+            "owner": "vinaygopinath",
+            "repo": "ng2-meta",
+            "stars": 198
+          }
+        }
+      ],
+      "title": "Meta Tags"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng-metadata",
+          "description": "Angular 2 decorators and utils for Angular 1.x.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-05-14T10:41:16Z",
+            "owner": "ngParty",
+            "repo": "ng-metadata",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-now",
+          "description": "Angular 2 @Component syntax for Angular 1 apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-06T07:31:37Z",
+            "owner": "pbastowski",
+            "repo": "angular2-now",
+            "stars": 145
+          }
+        }
+      ],
+      "title": "Angular 1 -> Angular 2 Migration"
+    },
+    {
+      "description": "Internet of Things",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@manekinekko/angular-web-bluetooth",
+          "description": "The missing Web Bluetooth module for Angular (>=2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-27T13:56:50Z",
+            "owner": "manekinekko",
+            "repo": "angular-web-bluetooth",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular2-iot",
+          "description": "Internet of Things directives for Angular 2 (Led, Button, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2017-05-06T21:50:23Z",
+            "owner": "urish",
+            "repo": "angular-iot",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "IoT"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ng2-lazyload-image",
+          "description": "Lazy image loader for Angular 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T02:27:35Z",
+            "owner": "tjoskar",
+            "repo": "ng-lazyload-image",
+            "stars": 751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-image-lazy-load",
+          "description": "Angular2 image lazy loader library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-09-04T00:09:38Z",
+            "owner": "NathanWalker",
+            "repo": "ng2-image-lazy-load",
+            "stars": 160
+          }
+        }
+      ],
+      "title": "Lazy Load"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:19:33.428Z",
+    "original_repository": "brillout/awesome-angular-components",
+    "original_repository_sha": "e093d070074db6257de796e9e43139f11b9b3c2c",
+    "enhanced_repository": "enhansome/enhansome-angular-components",
+    "enhanced_repository_description": null,
+    "title": "Awesome Angular 2+ Components & Libraries with stars"
+  }
+}
