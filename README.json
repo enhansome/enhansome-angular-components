@@ -921,7 +921,7 @@
             "last_commit": "2023-03-16T01:37:07Z",
             "owner": "vmware-archive",
             "repo": "clarity",
-            "stars": 6393
+            "stars": 6392
           }
         },
         {
@@ -932,7 +932,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T08:43:35Z",
+            "last_commit": "2026-08-14T14:58:26Z",
             "owner": "valor-software",
             "repo": "ngx-bootstrap",
             "stars": 5517
@@ -1008,7 +1008,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T21:23:35Z",
+            "last_commit": "2026-08-14T08:21:56Z",
             "owner": "angular",
             "repo": "components",
             "stars": 25036
@@ -1039,7 +1039,7 @@
             "last_commit": "2026-08-10T02:35:29Z",
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9168
+            "stars": 9166
           }
         },
         {
@@ -1064,7 +1064,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:05:57Z",
+            "last_commit": "2026-08-14T15:44:17Z",
             "owner": "IgniteUI",
             "repo": "igniteui-angular",
             "stars": 601
@@ -1154,10 +1154,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T02:47:41Z",
+            "last_commit": "2026-08-14T23:45:43Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52617
+            "stars": 52618
           }
         },
         {
@@ -1989,7 +1989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:19:33.428Z",
+    "last_updated": "2026-08-15T04:08:13.645Z",
     "original_repository": "brillout/awesome-angular-components",
     "original_repository_sha": "e093d070074db6257de796e9e43139f11b9b3c2c",
     "enhanced_repository": "enhansome/enhansome-angular-components",
