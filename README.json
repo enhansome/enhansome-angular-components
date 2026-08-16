@@ -48,7 +48,7 @@
             "last_commit": "2026-02-06T17:00:36Z",
             "owner": "scttcper",
             "repo": "ngx-toastr",
-            "stars": 2588
+            "stars": 2584
           }
         },
         {
@@ -680,7 +680,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T06:04:08Z",
+            "last_commit": "2026-08-15T20:47:17Z",
             "owner": "ng2-ui",
             "repo": "auto-complete",
             "stars": 279
@@ -873,7 +873,7 @@
             "last_commit": "2026-04-08T15:19:00Z",
             "owner": "mattlewis92",
             "repo": "angular-calendar",
-            "stars": 2824
+            "stars": 2823
           }
         },
         {
@@ -1008,10 +1008,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T08:21:56Z",
+            "last_commit": "2026-08-15T09:43:23Z",
             "owner": "angular",
             "repo": "components",
-            "stars": 25036
+            "stars": 25035
           }
         },
         {
@@ -1154,10 +1154,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T23:45:43Z",
+            "last_commit": "2026-08-15T21:47:00Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52618
+            "stars": 52620
           }
         },
         {
@@ -1989,7 +1989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:08:13.645Z",
+    "last_updated": "2026-08-16T04:19:58.550Z",
     "original_repository": "brillout/awesome-angular-components",
     "original_repository_sha": "e093d070074db6257de796e9e43139f11b9b3c2c",
     "enhanced_repository": "enhansome/enhansome-angular-components",
