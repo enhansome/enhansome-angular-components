@@ -370,7 +370,7 @@
             "last_commit": "2026-03-05T12:38:00Z",
             "owner": "valor-software",
             "repo": "ng2-charts",
-            "stars": 2402
+            "stars": 2401
           }
         },
         {
@@ -751,7 +751,7 @@
             "last_commit": "2025-05-26T18:32:18Z",
             "owner": "text-mask",
             "repo": "text-mask",
-            "stars": 8217
+            "stars": 8216
           }
         },
         {
@@ -932,7 +932,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:58:26Z",
+            "last_commit": "2026-08-17T14:08:31Z",
             "owner": "valor-software",
             "repo": "ngx-bootstrap",
             "stars": 5517
@@ -1008,7 +1008,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T13:29:16Z",
+            "last_commit": "2026-08-17T18:02:11Z",
             "owner": "angular",
             "repo": "components",
             "stars": 25035
@@ -1025,7 +1025,7 @@
             "last_commit": "2026-06-28T23:06:14Z",
             "owner": "primefaces",
             "repo": "primeng",
-            "stars": 12501
+            "stars": 12499
           }
         },
         {
@@ -1036,10 +1036,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T02:35:29Z",
+            "last_commit": "2026-08-17T12:40:18Z",
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9167
+            "stars": 9168
           }
         },
         {
@@ -1064,7 +1064,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:44:17Z",
+            "last_commit": "2026-08-17T10:55:55Z",
             "owner": "IgniteUI",
             "repo": "igniteui-angular",
             "stars": 601
@@ -1154,10 +1154,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T16:50:50Z",
+            "last_commit": "2026-08-17T23:03:38Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52621
+            "stars": 52620
           }
         },
         {
@@ -1171,7 +1171,7 @@
             "last_commit": "2026-06-17T03:34:27Z",
             "owner": "OnsenUI",
             "repo": "OnsenUI",
-            "stars": 8860
+            "stars": 8859
           }
         }
       ],
@@ -1312,7 +1312,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-06T20:00:10Z",
+            "last_commit": "2026-08-17T17:07:24Z",
             "owner": "ngx-formly",
             "repo": "ngx-formly",
             "stars": 2965
@@ -1707,7 +1707,7 @@
             "last_commit": "2026-07-20T05:55:18Z",
             "owner": "ngx-translate",
             "repo": "core",
-            "stars": 4660
+            "stars": 4661
           }
         },
         {
@@ -1989,7 +1989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:24:52.035Z",
+    "last_updated": "2026-08-18T04:19:38.235Z",
     "original_repository": "brillout/awesome-angular-components",
     "original_repository_sha": "e093d070074db6257de796e9e43139f11b9b3c2c",
     "enhanced_repository": "enhansome/enhansome-angular-components",
