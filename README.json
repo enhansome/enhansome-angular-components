@@ -708,7 +708,7 @@
                     "archived": false,
                     "id": 60480286,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T22:23:46Z",
+                    "last_commit": "2026-08-22T06:07:05Z",
                     "owner": "ng2-ui",
                     "repo": "auto-complete",
                     "stars": 279
@@ -1134,10 +1134,10 @@
                 "archived": false,
                 "id": 49016322,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T19:52:39Z",
+                "last_commit": "2026-08-22T08:13:47Z",
                 "owner": "angular",
                 "repo": "components",
-                "stars": 25033
+                "stars": 25034
               }
             },
             {
@@ -1164,7 +1164,7 @@
                 "archived": false,
                 "id": 99705100,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T02:58:33Z",
+                "last_commit": "2026-08-22T18:44:26Z",
                 "owner": "NG-ZORRO",
                 "repo": "ng-zorro-antd",
                 "stars": 9166
@@ -1294,7 +1294,7 @@
                 "last_commit": "2026-08-21T22:11:45Z",
                 "owner": "ionic-team",
                 "repo": "ionic-framework",
-                "stars": 52622
+                "stars": 52624
               }
             },
             {
@@ -1579,7 +1579,7 @@
                 "last_commit": "2026-08-17T17:07:24Z",
                 "owner": "ngx-formly",
                 "repo": "ngx-formly",
-                "stars": 2965
+                "stars": 2966
               }
             },
             {
@@ -2512,7 +2512,7 @@
             "last_commit": "2023-07-12T23:36:37Z",
             "owner": "MurhafSousli",
             "repo": "ngx-disqus",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -2719,7 +2719,7 @@
             "last_commit": "2026-08-21T18:25:19Z",
             "owner": "angular",
             "repo": "angular-cli",
-            "stars": 27014
+            "stars": 27015
           }
         },
         {
@@ -2967,7 +2967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:16:38.145Z",
+    "last_updated": "2026-08-23T04:21:37.269Z",
     "original_repository": "brillout/awesome-angular-components",
     "original_repository_id": 80735683,
     "original_repository_sha": "e093d070074db6257de796e9e43139f11b9b3c2c",
