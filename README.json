@@ -156,6 +156,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "angular-confirmation-popover",
+              "description": "Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57882334,
+                "language": "TypeScript",
+                "last_commit": "2024-02-28T17:57:14Z",
+                "owner": "mattlewis92",
+                "repo": "angular-confirmation-popover",
+                "stars": 201
+              }
+            }
+          ],
+          "description": "Show a little dialog next to an element",
+          "node_type": "group",
+          "title": "Popover"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "@swimlane/ngx-datatable",
               "description": "A feature-rich yet lightweight data-table crafted for Angular2 and beyond.",
               "children": [],
@@ -357,6 +379,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ng-sidebar",
+              "description": "Angular 2+ sidebar component.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 63270742,
+                "language": "TypeScript",
+                "last_commit": "2021-11-15T18:37:43Z",
+                "owner": "arkon",
+                "repo": "ng-sidebar",
+                "stars": 385
+              }
+            }
+          ],
+          "description": "Menu / sidebar",
+          "node_type": "group",
+          "title": "Menu"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ngx-charts",
               "description": "Declarative Charting Framework for Angular2 and beyond.",
               "children": [],
@@ -471,6 +515,270 @@
           "description": null,
           "node_type": "group",
           "title": "Map"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "od-virtualscroll",
+              "description": "Observable-based virtual scroll implementation in Angular",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89012658,
+                "language": "TypeScript",
+                "last_commit": "2018-11-29T22:04:46Z",
+                "owner": "dinony",
+                "repo": "od-virtualscroll",
+                "stars": 133
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "List Virtualization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ngx-infinite-scroll",
+              "description": "Infinite Scroll Directive for angular 2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51137166,
+                "language": "TypeScript",
+                "last_commit": "2026-07-06T09:30:04Z",
+                "owner": "orizens",
+                "repo": "ngx-infinite-scroll",
+                "stars": 1253
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Infinite Scroll"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ng2-parallax-scroll",
+              "description": "Angular2 parallax background scroll directive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63555457,
+                "language": "TypeScript",
+                "last_commit": "2017-12-18T15:21:29Z",
+                "owner": "ng2-ui",
+                "repo": "parallax-scroll",
+                "stars": 21
+              }
+            }
+          ],
+          "description": "Parallax effect while scrolling",
+          "node_type": "group",
+          "title": "Parallax"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "angular2-perfect-scrollbar",
+              "description": "Angular 2 wrapper library for perfect scrollbar.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66731982,
+                "language": "TypeScript",
+                "last_commit": "2023-07-07T07:11:30Z",
+                "owner": "zefoy",
+                "repo": "ngx-perfect-scrollbar",
+                "stars": 519
+              }
+            }
+          ],
+          "description": "Replace the browser scrollbar with a custom one",
+          "node_type": "group",
+          "title": "Scrollbar"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "angular2-swiper-wrapper",
+              "description": "Angular 2 wrapper library for swiper.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 66935261,
+                "language": "TypeScript",
+                "last_commit": "2022-07-20T12:19:25Z",
+                "owner": "zefoy",
+                "repo": "ngx-swiper-wrapper",
+                "stars": 440
+              }
+            }
+          ],
+          "description": "Carousel / touch slider / swiper",
+          "node_type": "group",
+          "title": "Carousel"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@ngui/sticky",
+              "description": "Angular2 \"position: sticky\" implementation as a directive.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 63454867,
+                "language": "TypeScript",
+                "last_commit": "2017-12-18T15:27:11Z",
+                "owner": "ng2-ui",
+                "repo": "sticky",
+                "stars": 37
+              }
+            }
+          ],
+          "description": "Implementations similar to",
+          "node_type": "group",
+          "title": "Sticky"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "angular2-contextmenu",
+              "description": "A context menu built with Angular 2 inspired by ui.bootstrap.contextMenu.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59597621,
+                "language": "TypeScript",
+                "last_commit": "2017-09-11T21:34:32Z",
+                "owner": "isaacplmann",
+                "repo": "angular2-contextmenu",
+                "stars": 65
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Context Menu"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "angular2-moment",
+              "description": "Moment.js pipes for Angular2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41093724,
+                "language": "TypeScript",
+                "last_commit": "2023-08-25T10:25:44Z",
+                "owner": "urish",
+                "repo": "ngx-moment",
+                "stars": 1157
+              }
+            }
+          ],
+          "description": "Display time / date / age",
+          "node_type": "group",
+          "title": "Time"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "videogular2",
+              "description": "The HTML5 video player for Angular 2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45143245,
+                "language": "TypeScript",
+                "last_commit": "2022-05-12T07:45:39Z",
+                "owner": "videogular",
+                "repo": "videogular2",
+                "stars": 668
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audio / Video"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ng-inline-svg",
+              "description": "Angular 2+ directive for inserting an SVG file inline within an element.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 62845177,
+                "language": "TypeScript",
+                "last_commit": "2022-05-09T18:54:45Z",
+                "owner": "arkon",
+                "repo": "ng-inline-svg",
+                "stars": 210
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SVG"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ng2-sharebuttons",
+              "description": "Share buttons for angular.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65001441,
+                "language": "TypeScript",
+                "last_commit": "2026-02-07T10:33:19Z",
+                "owner": "MurhafSousli",
+                "repo": "ngx-sharebuttons",
+                "stars": 535
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Social Sharing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ng2-pdf-viewer",
+              "description": "PDF Viewer Component for Angular 2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61661161,
+                "language": "TypeScript",
+                "last_commit": "2026-02-05T23:13:35Z",
+                "owner": "VadimDez",
+                "repo": "ng2-pdf-viewer",
+                "stars": 1348
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PDF"
         },
         {
           "children": [
@@ -649,6 +957,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "ng2-slider-component",
+                  "description": "Angular 2 slider component.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55062386,
+                    "language": "TypeScript",
+                    "last_commit": "2016-11-23T11:45:14Z",
+                    "owner": "Bogdan1975",
+                    "repo": "ng2-slider-component",
+                    "stars": 68
+                  }
+                }
+              ],
+              "description": "Let the user choose a value from a given range",
+              "node_type": "group",
+              "title": "Slider"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "ng2-select",
                   "description": "Angular2 based replacement for select boxes.",
                   "children": [],
@@ -723,6 +1053,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "ng2-tag-input",
+                  "description": "Tag Input for Angular.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 61501084,
+                    "language": "TypeScript",
+                    "last_commit": "2024-01-24T22:41:02Z",
+                    "owner": "Gbuomprisco",
+                    "repo": "ngx-chips",
+                    "stars": 897
+                  }
+                }
+              ],
+              "description": "Let the user select a tag / something while typing",
+              "node_type": "group",
+              "title": "Type Select"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "ng2-dragula",
                   "description": "Simple drag and drop with dragula.",
                   "children": [],
@@ -770,6 +1122,28 @@
               "description": null,
               "node_type": "group",
               "title": "Drag and Drop"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "angular-sortablejs",
+                  "description": "A Angular 2+ binding to SortableJS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62609044,
+                    "language": "TypeScript",
+                    "last_commit": "2024-03-14T01:09:47Z",
+                    "owner": "SortableJS",
+                    "repo": "ngx-sortablejs",
+                    "stars": 470
+                  }
+                }
+              ],
+              "description": "Let the user define an order on a list",
+              "node_type": "group",
+              "title": "Sortable List"
             },
             {
               "children": [
@@ -859,7 +1233,7 @@
                     "last_commit": "2026-03-05T14:16:42Z",
                     "owner": "valor-software",
                     "repo": "ng2-file-upload",
-                    "stars": 1899
+                    "stars": 1900
                   }
                 },
                 {
@@ -901,6 +1275,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "angular2-autosize",
+                  "description": "Angular2-autosize is an Angular2 directive that automatically adjusts textarea height to fit content.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51356095,
+                    "language": "TypeScript",
+                    "last_commit": "2018-04-15T16:59:44Z",
+                    "owner": "stevepapa",
+                    "repo": "angular2-autosize",
+                    "stars": 117
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Autosize Input / Textarea"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "angular2-calendar",
                   "description": "A flexible calendar component for angular 2.0+ that can display events on a month, week or day view.",
                   "children": [],
@@ -933,6 +1329,28 @@
               "description": "Show & edit events in a calendar view",
               "node_type": "group",
               "title": "Calendar"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ng2-img-cropper",
+                  "description": "Angular 2 Image Cropper.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55121156,
+                    "language": "TypeScript",
+                    "last_commit": "2018-03-15T12:43:49Z",
+                    "owner": "cstefanache",
+                    "repo": "angular2-img-cropper",
+                    "stars": 362
+                  }
+                }
+              ],
+              "description": "Image manipulation",
+              "node_type": "group",
+              "title": "Image Editing"
             }
           ],
           "description": "Let the user create & edit data",
@@ -1004,6 +1422,28 @@
             "repo": "ngresizable",
             "stars": 115
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@angular/flex-layout",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 46386922,
+                "language": "TypeScript",
+                "last_commit": "2024-09-03T13:24:59Z",
+                "owner": "angular",
+                "repo": "flex-layout",
+                "stars": 5827
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Responsive"
         }
       ],
       "title": "UI Layout"
@@ -1134,7 +1574,7 @@
                 "archived": false,
                 "id": 49016322,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T08:13:47Z",
+                "last_commit": "2026-08-24T07:26:31Z",
                 "owner": "angular",
                 "repo": "components",
                 "stars": 25036
@@ -1194,7 +1634,7 @@
                 "archived": false,
                 "id": 51516387,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T13:33:40Z",
+                "last_commit": "2026-08-24T13:28:37Z",
                 "owner": "IgniteUI",
                 "repo": "igniteui-angular",
                 "stars": 601
@@ -1294,7 +1734,7 @@
                 "last_commit": "2026-08-24T03:12:14Z",
                 "owner": "ionic-team",
                 "repo": "ionic-framework",
-                "stars": 52627
+                "stars": 52628
               }
             },
             {
@@ -1316,6 +1756,28 @@
           "description": null,
           "node_type": "group",
           "title": "Mobile"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ngx-admin",
+              "description": "Admin template based on Nebular framework (Angular 4+, Bootstrap 4+).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59652928,
+                "language": "TypeScript",
+                "last_commit": "2024-09-25T10:12:17Z",
+                "owner": "akveo",
+                "repo": "ngx-admin",
+                "stars": 25687
+              }
+            }
+          ],
+          "description": "Admin panels / dashboard",
+          "node_type": "group",
+          "title": "Admin panel"
         }
       ],
       "title": "UI Frameworks"
@@ -1425,6 +1887,28 @@
           "description": "Data flow / data store / data flow",
           "node_type": "group",
           "title": "Data Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "apollo-angular",
+              "description": "Angular integration for the Apollo Client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56356706,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T07:23:02Z",
+                "owner": "the-guild-org",
+                "repo": "apollo-angular",
+                "stars": 1516
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Communication with Server"
         }
       ],
       "title": "Code Structure"
@@ -1621,6 +2105,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ng-animate",
+              "description": "🌙 A collection of cool, reusable and flexible animations for Angular 4.2+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98632034,
+                "language": "TypeScript",
+                "last_commit": "2023-02-04T14:08:14Z",
+                "owner": "jiayihu",
+                "repo": "ng-animate",
+                "stars": 716
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Animations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ngx-restangular",
               "description": "Restangular for Angular 2+ and higher versions.",
               "children": [],
@@ -1785,6 +2291,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ng-click-outside",
+              "description": "Angular 2+ directive for handling click events outside of an element.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 61164978,
+                "language": "TypeScript",
+                "last_commit": "2021-11-15T18:49:54Z",
+                "owner": "arkon",
+                "repo": "ng-click-outside",
+                "stars": 230
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Event Handling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ng2-page-scroll",
               "description": "Animated scrolling functionality written in pure angular2.",
               "children": [],
@@ -1832,6 +2360,28 @@
           "description": null,
           "node_type": "group",
           "title": "Scroll"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ng2-responsive",
+              "description": "Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59582073,
+                "language": "TypeScript",
+                "last_commit": "2024-04-04T23:39:19Z",
+                "owner": "ManuCutillas",
+                "repo": "ngx-responsive",
+                "stars": 292
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Responsive Design"
         },
         {
           "children": [
@@ -1904,6 +2454,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "angular2-cookie",
+              "description": "Implementation of Angular 1.x $cookies service to Angular 2.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 53853816,
+                "language": "JavaScript",
+                "last_commit": "2017-04-12T08:37:24Z",
+                "owner": "salemdar",
+                "repo": "angular2-cookie",
+                "stars": 108
+              }
+            }
+          ],
+          "description": "Cookie manipulation",
+          "node_type": "group",
+          "title": "Cookie"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ng2-breadcrumb",
               "description": "This is an angular 2 component that creates a breadcrumb trail. It hooks into the angular2/router, to dynamically build up the crumb trail once a component is routed to.",
               "children": [],
@@ -1956,6 +2528,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ng2-pagination",
+              "description": "Pagination for Angular.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47828912,
+                "language": "TypeScript",
+                "last_commit": "2022-11-21T15:30:14Z",
+                "owner": "michaelbromley",
+                "repo": "ngx-pagination",
+                "stars": 1232
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pagination"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ng2-validation",
               "description": "Angular2 validation.",
               "children": [],
@@ -2000,7 +2594,7 @@
                 "archived": false,
                 "id": 44045057,
                 "language": "TypeScript",
-                "last_commit": "2026-07-20T05:55:18Z",
+                "last_commit": "2026-08-24T05:57:57Z",
                 "owner": "ngx-translate",
                 "repo": "core",
                 "stars": 4660
@@ -2201,6 +2795,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ngx-clipboard",
+              "description": "A wrapper directive for clipboard.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60649224,
+                "language": "TypeScript",
+                "last_commit": "2024-10-15T20:20:33Z",
+                "owner": "maxisam",
+                "repo": "ngx-clipboard",
+                "stars": 509
+              }
+            }
+          ],
+          "description": "Copy & paste text to clipboard",
+          "node_type": "group",
+          "title": "Clipboard"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ng-metadata",
               "description": "Angular 2 decorators and utils for Angular 1.x.",
               "children": [],
@@ -2238,6 +2854,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "compodoc",
+              "description": "The missing documentation tool for your Angular application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71109869,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T22:06:59Z",
+                "owner": "compodoc",
+                "repo": "compodoc",
+                "stars": 4120
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Documentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "@manekinekko/angular-web-bluetooth",
               "description": "The missing Web Bluetooth module for Angular (>=2).",
               "children": [],
@@ -2270,6 +2908,28 @@
           "description": "Internet of Things",
           "node_type": "group",
           "title": "IoT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ng2-tour",
+              "description": "Product Tour.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76381267,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T19:19:09Z",
+                "owner": "isaacplmann",
+                "repo": "ngx-tour",
+                "stars": 247
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Product Tour"
         }
       ],
       "title": "Utilities"
@@ -2277,6 +2937,21 @@
     {
       "description": "Reduce amount of time the user has to wait in order to interact with the app",
       "items": [
+        {
+          "node_type": "item",
+          "title": "@angularclass/idle-preload",
+          "description": "Angular 2 Idle Preload for preloading async routes via @AngularClass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75095205,
+            "language": "TypeScript",
+            "last_commit": "2022-09-25T15:51:49Z",
+            "owner": "PatrickJS",
+            "repo": "angular-idle-preload",
+            "stars": 99
+          }
+        },
         {
           "children": [
             {
@@ -2449,7 +3124,7 @@
             "archived": false,
             "id": 55400726,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T01:42:14Z",
+            "last_commit": "2026-08-24T12:17:50Z",
             "owner": "Alfresco",
             "repo": "alfresco-ng2-components",
             "stars": 304
@@ -2716,10 +3391,10 @@
             "archived": false,
             "id": 36891867,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T18:25:19Z",
+            "last_commit": "2026-08-24T08:13:57Z",
             "owner": "angular",
             "repo": "angular-cli",
-            "stars": 27014
+            "stars": 27013
           }
         },
         {
@@ -2967,7 +3642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:27:41.826Z",
+    "last_updated": "2026-08-24T13:59:53.592Z",
     "original_repository": "brillout/awesome-angular-components",
     "original_repository_id": 80735683,
     "original_repository_sha": "e093d070074db6257de796e9e43139f11b9b3c2c",
