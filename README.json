@@ -434,7 +434,7 @@
                 "last_commit": "2024-06-06T13:27:05Z",
                 "owner": "sebholstein",
                 "repo": "angular-google-maps",
-                "stars": 2025
+                "stars": 2024
               }
             },
             {
@@ -1137,7 +1137,7 @@
                 "last_commit": "2026-08-22T08:13:47Z",
                 "owner": "angular",
                 "repo": "components",
-                "stars": 25034
+                "stars": 25036
               }
             },
             {
@@ -1152,7 +1152,7 @@
                 "last_commit": "2026-06-28T23:06:14Z",
                 "owner": "primefaces",
                 "repo": "primeng",
-                "stars": 12493
+                "stars": 12492
               }
             },
             {
@@ -1164,10 +1164,10 @@
                 "archived": false,
                 "id": 99705100,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T18:44:26Z",
+                "last_commit": "2026-08-24T02:05:17Z",
                 "owner": "NG-ZORRO",
                 "repo": "ng-zorro-antd",
-                "stars": 9166
+                "stars": 9167
               }
             },
             {
@@ -1291,10 +1291,10 @@
                 "archived": false,
                 "id": 12256376,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T22:11:45Z",
+                "last_commit": "2026-08-24T03:12:14Z",
                 "owner": "ionic-team",
                 "repo": "ionic-framework",
-                "stars": 52624
+                "stars": 52627
               }
             },
             {
@@ -1713,7 +1713,7 @@
                 "last_commit": "2026-07-05T09:19:08Z",
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1981
+                "stars": 1980
               }
             },
             {
@@ -2003,7 +2003,7 @@
                 "last_commit": "2026-07-20T05:55:18Z",
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4659
+                "stars": 4660
               }
             },
             {
@@ -2332,7 +2332,7 @@
             "last_commit": "2026-08-21T22:37:04Z",
             "owner": "angular",
             "repo": "angularfire",
-            "stars": 7807
+            "stars": 7805
           }
         },
         {
@@ -2449,7 +2449,7 @@
             "archived": false,
             "id": 55400726,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T12:05:57Z",
+            "last_commit": "2026-08-24T01:42:14Z",
             "owner": "Alfresco",
             "repo": "alfresco-ng2-components",
             "stars": 304
@@ -2719,7 +2719,7 @@
             "last_commit": "2026-08-21T18:25:19Z",
             "owner": "angular",
             "repo": "angular-cli",
-            "stars": 27015
+            "stars": 27014
           }
         },
         {
@@ -2967,7 +2967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:21:37.269Z",
+    "last_updated": "2026-08-24T04:27:41.826Z",
     "original_repository": "brillout/awesome-angular-components",
     "original_repository_id": 80735683,
     "original_repository_sha": "e093d070074db6257de796e9e43139f11b9b3c2c",
