@@ -241,7 +241,7 @@
 *Time Picker / Datetime Picker*
 
 * [ng2-date-picker](https://github.com/vlio20/ng2-date-picker) ⭐ 514 | 🐛 23 | 🌐 TypeScript | 📅 2026-02-15 - Highly configurable date picker built for Angular 2 applications.
-* [ng2-datepicker](https://github.com/jkuri/ng2-datepicker) ⭐ 310 | 🐛 221 | 🌐 TypeScript | 📅 2023-07-04 - Angular2 Datepicker Component.
+* [ng2-datepicker](https://github.com/jkuri/ng2-datepicker) ⭐ 310 | 🐛 220 | 🌐 TypeScript | 📅 2023-07-04 - Angular2 Datepicker Component.
 * [ng2-datetime](https://github.com/nkalinov/ng2-datetime) ⚠️ Archived - Datetime picker plugins wrapper for Angular2.
 * [angular2-material-datepicker](https://github.com/koleary94/Angular-2-Datepicker) ⭐ 70 | 🐛 55 | 🌐 TypeScript | 📅 2017-10-10 - A minimalist datepicker inspired by Google's material design.
 * [mydatepicker](https://github.com/kekeh/mydatepicker) - Angular2 date picker.
@@ -355,11 +355,11 @@
 
 *Set of components without layout system*
 
-* [@angular/material](https://github.com/angular/material2) ⭐ 25,036 | 🐛 1,373 | 🌐 TypeScript | 📅 2026-08-24 - Official Material Design components for Angular.
+* [@angular/material](https://github.com/angular/material2) ⭐ 25,036 | 🐛 1,375 | 🌐 TypeScript | 📅 2026-08-24 - Official Material Design components for Angular.
 * [primeng](https://github.com/primefaces/primeng) ⚠️ Archived - UI Components for Angular 2.
-* [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,167 | 🐛 782 | 🌐 TypeScript | 📅 2026-08-24 - An enterprise-class UI components based on Ant Design and Angular.
+* [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,167 | 🐛 780 | 🌐 TypeScript | 📅 2026-08-25 - An enterprise-class UI components based on Ant Design and Angular.
 * [ng-lightning](https://github.com/ng-lightning/ng-lightning) ⭐ 914 | 🐛 49 | 🌐 TypeScript | 📅 2024-07-03 - Native Angular 2 components & directives for Lightning Design System.
-* [igniteui-js-blocks](https://github.com/IgniteUI/igniteui-js-blocks) ⭐ 601 | 🐛 59 | 🌐 TypeScript | 📅 2026-08-24 - Mobile-first Angular native components.
+* [igniteui-js-blocks](https://github.com/IgniteUI/igniteui-js-blocks) ⭐ 601 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-24 - Mobile-first Angular native components.
 * [devextreme-angular](https://github.com/DevExpress/devextreme-angular) ⚠️ Archived - Angular 2 UI and visualization components based on DevExtreme widgets.
 * [angular2-mdl](https://github.com/mseemann/angular2-mdl) ⭐ 556 | 🐛 28 | 🌐 TypeScript | 📅 2023-03-04 - Angular 2 components, directives and styles based on material design lite.
 * [md2](https://github.com/Promact/md2) ⚠️ Archived - Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.
@@ -368,14 +368,14 @@
 
 ### Mobile
 
-* [ionic2](https://github.com/driftyco/ionic) ⭐ 52,628 | 🐛 592 | 🌐 TypeScript | 📅 2026-08-24 - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything.
+* [ionic2](https://github.com/driftyco/ionic) ⭐ 52,632 | 🐛 596 | 🌐 TypeScript | 📅 2026-08-24 - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything.
 * [angular2-onsenui](https://github.com/onsenui/onsenui) ⭐ 8,859 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-17 - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 
 ### Admin panel
 
 *Admin panels / dashboard*
 
-* [ngx-admin](https://github.com/akveo/ngx-admin) ⭐ 25,687 | 🐛 495 | 🌐 TypeScript | 📅 2024-09-25 - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+).
+* [ngx-admin](https://github.com/akveo/ngx-admin) ⭐ 25,688 | 🐛 495 | 🌐 TypeScript | 📅 2024-09-25 - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+).
 
 # Isomorphic Apps
 
@@ -443,7 +443,7 @@
 
 ###### Authentication
 
-* [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,980 | 🐛 307 | 🌐 TypeScript | 📅 2026-07-05 - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
+* [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,979 | 🐛 307 | 🌐 TypeScript | 📅 2026-07-05 - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
 * [angular-oauth2](https://github.com/oauthjs/angular-oauth2) ⭐ 589 | 🐛 31 | 🌐 JavaScript | 📅 2021-06-22 - AngularJS OAuth2.
 * [angular2-token](https://github.com/neroniaky/angular2-token) ⭐ 367 | 🐛 49 | 🌐 TypeScript | 📅 2024-01-22 - Token based authentication service for Angular2 (ng2) with multi-user support. Works best with the devise token auth gem for Rails.
 * [ng2-ui-auth](https://github.com/ronzeidman/ng2-ui-auth) ⭐ 207 | 🐛 46 | 🌐 TypeScript | 📅 2024-07-04 - An angular2 repository for authentication based on angular1's satellizer.
@@ -597,7 +597,7 @@
 
 *Boilerplate / scaffold / Yeoman generator / stack ensemble / seed*
 
-* [@angular/cli](https://github.com/angular/angular-cli) ⭐ 27,013 | 🐛 283 | 🌐 TypeScript | 📅 2026-08-24 - Official CLI tool for Angular.
+* [@angular/cli](https://github.com/angular/angular-cli) ⭐ 27,020 | 🐛 283 | 🌐 TypeScript | 📅 2026-08-24 - Official CLI tool for Angular.
 * [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,209 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 - An Angular Starter kit featuring Angular 2 and Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass.
 * [angular-seed](https://github.com/mgechev/angular-seed) ⭐ 4,520 | 🐛 21 | 🌐 TypeScript | 📅 2025-09-15 - Extensible, reliable and modular starter project for Angular 2 (and beyond) with statically typed build and AoT compilation.
 * [Colmena CMS](https://github.com/colmena/colmena-cms) ⚠️ Archived - Free and Open Source API and Admin powered by LoopBack and Angular.
@@ -617,4 +617,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

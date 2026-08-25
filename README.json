@@ -1604,7 +1604,7 @@
                 "archived": false,
                 "id": 99705100,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T02:05:17Z",
+                "last_commit": "2026-08-25T04:19:53Z",
                 "owner": "NG-ZORRO",
                 "repo": "ng-zorro-antd",
                 "stars": 9167
@@ -1634,7 +1634,7 @@
                 "archived": false,
                 "id": 51516387,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:28:37Z",
+                "last_commit": "2026-08-24T16:01:12Z",
                 "owner": "IgniteUI",
                 "repo": "igniteui-angular",
                 "stars": 601
@@ -1731,10 +1731,10 @@
                 "archived": false,
                 "id": 12256376,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:12:14Z",
+                "last_commit": "2026-08-24T20:30:43Z",
                 "owner": "ionic-team",
                 "repo": "ionic-framework",
-                "stars": 52628
+                "stars": 52632
               }
             },
             {
@@ -1771,7 +1771,7 @@
                 "last_commit": "2024-09-25T10:12:17Z",
                 "owner": "akveo",
                 "repo": "ngx-admin",
-                "stars": 25687
+                "stars": 25688
               }
             }
           ],
@@ -2219,7 +2219,7 @@
                 "last_commit": "2026-07-05T09:19:08Z",
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1980
+                "stars": 1979
               }
             },
             {
@@ -3124,7 +3124,7 @@
             "archived": false,
             "id": 55400726,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:17:50Z",
+            "last_commit": "2026-08-24T17:00:30Z",
             "owner": "Alfresco",
             "repo": "alfresco-ng2-components",
             "stars": 304
@@ -3391,10 +3391,10 @@
             "archived": false,
             "id": 36891867,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:13:57Z",
+            "last_commit": "2026-08-24T17:59:07Z",
             "owner": "angular",
             "repo": "angular-cli",
-            "stars": 27013
+            "stars": 27020
           }
         },
         {
@@ -3642,7 +3642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:53.592Z",
+    "last_updated": "2026-08-25T04:21:56.763Z",
     "original_repository": "brillout/awesome-angular-components",
     "original_repository_id": 80735683,
     "original_repository_sha": "e093d070074db6257de796e9e43139f11b9b3c2c",
