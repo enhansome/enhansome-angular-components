@@ -114,7 +114,7 @@
                 "last_commit": "2024-02-08T17:37:50Z",
                 "owner": "itsdevdom",
                 "repo": "angular-notifier",
-                "stars": 245
+                "stars": 244
               }
             },
             {
@@ -426,7 +426,7 @@
                 "last_commit": "2026-03-05T12:38:00Z",
                 "owner": "valor-software",
                 "repo": "ng2-charts",
-                "stars": 2401
+                "stars": 2400
               }
             },
             {
@@ -794,7 +794,7 @@
                 "last_commit": "2026-08-09T11:59:13Z",
                 "owner": "jfcere",
                 "repo": "ngx-markdown",
-                "stars": 1190
+                "stars": 1191
               }
             },
             {
@@ -1465,7 +1465,7 @@
                 "last_commit": "2026-06-22T14:39:41Z",
                 "owner": "ng-bootstrap",
                 "repo": "ng-bootstrap",
-                "stars": 8227
+                "stars": 8228
               }
             },
             {
@@ -1495,7 +1495,7 @@
                 "last_commit": "2026-08-17T14:08:31Z",
                 "owner": "valor-software",
                 "repo": "ngx-bootstrap",
-                "stars": 5515
+                "stars": 5516
               }
             },
             {
@@ -1574,10 +1574,10 @@
                 "archived": false,
                 "id": 49016322,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T17:30:27Z",
+                "last_commit": "2026-08-27T09:50:23Z",
                 "owner": "angular",
                 "repo": "components",
-                "stars": 25036
+                "stars": 25037
               }
             },
             {
@@ -1592,7 +1592,7 @@
                 "last_commit": "2026-06-28T23:06:14Z",
                 "owner": "primefaces",
                 "repo": "primeng",
-                "stars": 12490
+                "stars": 12491
               }
             },
             {
@@ -1607,7 +1607,7 @@
                 "last_commit": "2026-08-25T05:31:27Z",
                 "owner": "NG-ZORRO",
                 "repo": "ng-zorro-antd",
-                "stars": 9166
+                "stars": 9167
               }
             },
             {
@@ -1634,10 +1634,10 @@
                 "archived": false,
                 "id": 51516387,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T14:37:03Z",
+                "last_commit": "2026-08-27T11:19:47Z",
                 "owner": "IgniteUI",
                 "repo": "igniteui-angular",
-                "stars": 601
+                "stars": 602
               }
             },
             {
@@ -1731,10 +1731,10 @@
                 "archived": false,
                 "id": 12256376,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T22:04:42Z",
+                "last_commit": "2026-08-27T00:55:36Z",
                 "owner": "ionic-team",
                 "repo": "ionic-framework",
-                "stars": 52631
+                "stars": 52632
               }
             },
             {
@@ -1771,7 +1771,7 @@
                 "last_commit": "2024-09-25T10:12:17Z",
                 "owner": "akveo",
                 "repo": "ngx-admin",
-                "stars": 25689
+                "stars": 25690
               }
             }
           ],
@@ -1925,7 +1925,7 @@
             "archived": false,
             "id": 51457456,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:07:28Z",
+            "last_commit": "2026-08-26T20:40:34Z",
             "owner": "mgechev",
             "repo": "codelyzer",
             "stars": 2467
@@ -2397,7 +2397,7 @@
                 "last_commit": "2026-08-19T15:17:10Z",
                 "owner": "PillowPillow",
                 "repo": "ng2-webstorage",
-                "stars": 425
+                "stars": 426
               }
             },
             {
@@ -2861,7 +2861,7 @@
                 "archived": false,
                 "id": 71109869,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T12:56:49Z",
+                "last_commit": "2026-08-27T01:41:38Z",
                 "owner": "compodoc",
                 "repo": "compodoc",
                 "stars": 4120
@@ -3007,7 +3007,7 @@
             "last_commit": "2026-08-21T22:37:04Z",
             "owner": "angular",
             "repo": "angularfire",
-            "stars": 7805
+            "stars": 7804
           }
         },
         {
@@ -3124,7 +3124,7 @@
             "archived": false,
             "id": 55400726,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T20:47:41Z",
+            "last_commit": "2026-08-26T15:22:14Z",
             "owner": "Alfresco",
             "repo": "alfresco-ng2-components",
             "stars": 304
@@ -3391,10 +3391,10 @@
             "archived": false,
             "id": 36891867,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T18:15:32Z",
+            "last_commit": "2026-08-27T11:06:12Z",
             "owner": "angular",
             "repo": "angular-cli",
-            "stars": 27023
+            "stars": 27021
           }
         },
         {
@@ -3526,8 +3526,8 @@
             "archived": false,
             "id": 31741408,
             "language": "JavaScript",
-            "last_commit": "2016-09-15T09:07:54Z",
-            "owner": "chrisdwheatley",
+            "last_commit": "2026-08-27T04:54:33Z",
+            "owner": "cdwmyk",
             "repo": "generator-angular2",
             "stars": 251
           }
@@ -3642,9 +3642,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:22:50.118Z",
-    "original_repository": "brillout/awesome-angular-components",
-    "original_repository_id": 80735683,
+    "last_updated": "2026-08-27T11:21:59.661Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 80735683,
+      "language": null,
+      "last_commit": "2022-01-04T15:16:38Z",
+      "owner": "brillout",
+      "repo": "awesome-angular-components",
+      "stars": 3190
+    },
     "original_repository_sha": "e093d070074db6257de796e9e43139f11b9b3c2c",
     "enhanced_repository": "enhansome/enhansome-angular-components",
     "enhanced_repository_description": null,
