@@ -1586,10 +1586,10 @@
               "description": "UI Components for Angular 2.",
               "children": [],
               "repo_info": {
-                "archived": true,
+                "archived": false,
                 "id": 49767244,
                 "language": "TypeScript",
-                "last_commit": "2026-06-28T23:06:14Z",
+                "last_commit": "2026-08-27T14:26:11Z",
                 "owner": "primefaces",
                 "repo": "primeng",
                 "stars": 12491
@@ -1634,7 +1634,7 @@
                 "archived": false,
                 "id": 51516387,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:19:47Z",
+                "last_commit": "2026-08-27T13:26:09Z",
                 "owner": "IgniteUI",
                 "repo": "igniteui-angular",
                 "stars": 602
@@ -3124,7 +3124,7 @@
             "archived": false,
             "id": 55400726,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:22:14Z",
+            "last_commit": "2026-08-27T13:27:01Z",
             "owner": "Alfresco",
             "repo": "alfresco-ng2-components",
             "stars": 304
@@ -3391,7 +3391,7 @@
             "archived": false,
             "id": 36891867,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:06:12Z",
+            "last_commit": "2026-08-27T13:34:41Z",
             "owner": "angular",
             "repo": "angular-cli",
             "stars": 27021
@@ -3642,7 +3642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:59.661Z",
+    "last_updated": "2026-08-27T14:45:37.177Z",
     "original_repository_info": {
       "archived": false,
       "id": 80735683,
