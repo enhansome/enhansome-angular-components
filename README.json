@@ -18,7 +18,8 @@
                 "owner": "shlomiassaf",
                 "repo": "ngx-modialog",
                 "stars": 680
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "dougludlow",
                 "repo": "ng2-bs3-modal",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Overlay / modal / alert / dialog / lightbox / popup",
@@ -55,7 +57,8 @@
                 "owner": "scttcper",
                 "repo": "ngx-toastr",
                 "stars": 2583
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "flauc",
                 "repo": "angular2-notifications",
                 "stars": 743
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "Stabzs",
                 "repo": "Angular2-Toaster",
                 "stars": 332
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "akserg",
                 "repo": "ng2-toasty",
                 "stars": 280
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "itsdevdom",
                 "repo": "angular-notifier",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "alexcastillo",
                 "repo": "ng2-notifications",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "ngrx",
                 "repo": "notify",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Toaster / snackbar — Notify the user with a modeless temporary little popup",
@@ -167,7 +176,8 @@
                 "owner": "mattlewis92",
                 "repo": "angular-confirmation-popover",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Show a little dialog next to an element",
@@ -189,7 +199,8 @@
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
                 "stars": 4669
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -203,8 +214,9 @@
                 "last_commit": "2024-08-12T16:52:31Z",
                 "owner": "akveo",
                 "repo": "ng2-smart-table",
-                "stars": 1620
-              }
+                "stars": 1619
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "valor-software",
                 "repo": "ng2-table",
                 "stars": 544
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "ssuperczynski",
                 "repo": "ngx-easy-table",
                 "stars": 378
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "valor-software",
                 "repo": "ng2-handsontable",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "mariuszfoltak",
                 "repo": "angular2-datatable",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Table / Data Grid — Display (large) datasets",
@@ -286,7 +302,8 @@
                 "owner": "CirclonGroup",
                 "repo": "angular-tree-component",
                 "stars": 1098
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "valor-software",
                 "repo": "ng2-tree",
                 "stars": 345
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Visualize data as a tree",
@@ -323,7 +341,8 @@
                 "owner": "MurhafSousli",
                 "repo": "ngx-progressbar",
                 "stars": 1054
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -338,7 +357,8 @@
                 "owner": "akserg",
                 "repo": "ng2-slim-loading-bar",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -353,7 +373,8 @@
                 "owner": "devyumao",
                 "repo": "angular2-busy",
                 "stars": 313
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -368,7 +389,8 @@
                 "owner": "moff",
                 "repo": "angular2-ladda",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Let the user know that something is being loaded",
@@ -390,7 +412,8 @@
                 "owner": "arkon",
                 "repo": "ng-sidebar",
                 "stars": 385
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Menu / sidebar",
@@ -412,7 +435,8 @@
                 "owner": "swimlane",
                 "repo": "ngx-charts",
                 "stars": 4362
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -427,7 +451,8 @@
                 "owner": "valor-software",
                 "repo": "ng2-charts",
                 "stars": 2400
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -442,7 +467,8 @@
                 "owner": "gevgeny",
                 "repo": "angular2-highcharts",
                 "stars": 374
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -457,7 +483,8 @@
                 "owner": "krispo",
                 "repo": "ng2-nvd3",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -479,7 +506,8 @@
                 "owner": "sebholstein",
                 "repo": "angular-google-maps",
                 "stars": 2024
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -494,7 +522,8 @@
                 "owner": "ng2-ui",
                 "repo": "map",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -509,7 +538,8 @@
                 "owner": "TheKeithStewart",
                 "repo": "angular-esri-components",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -531,7 +561,8 @@
                 "owner": "dinony",
                 "repo": "od-virtualscroll",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -553,7 +584,8 @@
                 "owner": "orizens",
                 "repo": "ngx-infinite-scroll",
                 "stars": 1253
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -575,7 +607,8 @@
                 "owner": "ng2-ui",
                 "repo": "parallax-scroll",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Parallax effect while scrolling",
@@ -597,7 +630,8 @@
                 "owner": "zefoy",
                 "repo": "ngx-perfect-scrollbar",
                 "stars": 519
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Replace the browser scrollbar with a custom one",
@@ -619,7 +653,8 @@
                 "owner": "zefoy",
                 "repo": "ngx-swiper-wrapper",
                 "stars": 440
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Carousel / touch slider / swiper",
@@ -641,7 +676,8 @@
                 "owner": "ng2-ui",
                 "repo": "sticky",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Implementations similar to",
@@ -663,7 +699,8 @@
                 "owner": "isaacplmann",
                 "repo": "angular2-contextmenu",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -685,7 +722,8 @@
                 "owner": "urish",
                 "repo": "ngx-moment",
                 "stars": 1157
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Display time / date / age",
@@ -706,8 +744,9 @@
                 "last_commit": "2022-05-12T07:45:39Z",
                 "owner": "videogular",
                 "repo": "videogular2",
-                "stars": 668
-              }
+                "stars": 667
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -729,7 +768,8 @@
                 "owner": "arkon",
                 "repo": "ng-inline-svg",
                 "stars": 210
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -751,7 +791,8 @@
                 "owner": "MurhafSousli",
                 "repo": "ngx-sharebuttons",
                 "stars": 535
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -773,7 +814,8 @@
                 "owner": "VadimDez",
                 "repo": "ng2-pdf-viewer",
                 "stars": 1349
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -795,7 +837,8 @@
                 "owner": "jfcere",
                 "repo": "ngx-markdown",
                 "stars": 1191
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -810,7 +853,8 @@
                 "owner": "maxisam",
                 "repo": "ngx-no-animation-for-dinosaur",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -825,7 +869,8 @@
                 "owner": "Caballerog",
                 "repo": "ng2-inline-editor",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -849,7 +894,8 @@
                     "owner": "vlio20",
                     "repo": "angular-datepicker",
                     "stars": 514
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -864,7 +910,8 @@
                     "owner": "bleenco",
                     "repo": "ng2-datepicker",
                     "stars": 310
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -879,7 +926,8 @@
                     "owner": "nkalinov",
                     "repo": "ng2-datetime",
                     "stars": 155
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -894,7 +942,8 @@
                     "owner": "kevinoleary19",
                     "repo": "Angular-2-Datepicker",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": "Time Picker / Datetime Picker",
@@ -916,7 +965,8 @@
                     "owner": "zefoy",
                     "repo": "ngx-color-picker",
                     "stars": 474
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -931,7 +981,8 @@
                     "owner": "Alberplz",
                     "repo": "angular2-color-picker",
                     "stars": 184
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -946,7 +997,8 @@
                     "owner": "AndyMeps",
                     "repo": "ng2-color-picker",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": null,
@@ -968,7 +1020,8 @@
                     "owner": "Bogdan1975",
                     "repo": "ng2-slider-component",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": "Let the user choose a value from a given range",
@@ -990,7 +1043,8 @@
                     "owner": "valor-software",
                     "repo": "ng2-select",
                     "stars": 666
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -1005,7 +1059,8 @@
                     "owner": "basvandenberg",
                     "repo": "ng-select",
                     "stars": 289
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": "Let the user choose from a list of options",
@@ -1027,7 +1082,8 @@
                     "owner": "oferh",
                     "repo": "ng2-completer",
                     "stars": 343
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -1042,7 +1098,8 @@
                     "owner": "ng2-ui",
                     "repo": "auto-complete",
                     "stars": 279
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": "Autosuggest / autocomplete / typeahead",
@@ -1064,7 +1121,8 @@
                     "owner": "Gbuomprisco",
                     "repo": "ngx-chips",
                     "stars": 897
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": "Let the user select a tag / something while typing",
@@ -1086,7 +1144,8 @@
                     "owner": "valor-software",
                     "repo": "ng2-dragula",
                     "stars": 1907
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -1101,7 +1160,8 @@
                     "owner": "akserg",
                     "repo": "ng2-dnd",
                     "stars": 831
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -1116,7 +1176,8 @@
                     "owner": "ObaidUrRehman",
                     "repo": "ng-drag-drop",
                     "stars": 240
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": null,
@@ -1138,7 +1199,8 @@
                     "owner": "SortableJS",
                     "repo": "ngx-sortablejs",
                     "stars": 470
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": "Let the user define an order on a list",
@@ -1160,7 +1222,8 @@
                     "owner": "text-mask",
                     "repo": "text-mask",
                     "stars": 8214
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -1175,7 +1238,8 @@
                     "owner": "renatosistemasvc",
                     "repo": "soft-angular-mask",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": null,
@@ -1197,7 +1261,8 @@
                     "owner": "yabab-dev",
                     "repo": "ng2-ckeditor",
                     "stars": 355
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -1212,7 +1277,8 @@
                     "owner": "froala",
                     "repo": "angular-froala-wysiwyg",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": null,
@@ -1234,7 +1300,8 @@
                     "owner": "valor-software",
                     "repo": "ng2-file-upload",
                     "stars": 1900
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -1249,7 +1316,8 @@
                     "owner": "zefoy",
                     "repo": "ngx-dropzone-wrapper",
                     "stars": 172
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -1264,7 +1332,8 @@
                     "owner": "jkuri",
                     "repo": "ngx-uploader",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": null,
@@ -1286,7 +1355,8 @@
                     "owner": "stevepapa",
                     "repo": "angular2-autosize",
                     "stars": 117
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": null,
@@ -1307,8 +1377,9 @@
                     "last_commit": "2026-04-08T15:19:00Z",
                     "owner": "mattlewis92",
                     "repo": "angular-calendar",
-                    "stars": 2821
-                  }
+                    "stars": 2822
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 },
                 {
                   "node_type": "item",
@@ -1323,7 +1394,8 @@
                     "owner": "nekken",
                     "repo": "ng2-fullcalendar",
                     "stars": 94
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": "Show & edit events in a calendar view",
@@ -1345,7 +1417,8 @@
                     "owner": "cstefanache",
                     "repo": "angular2-img-cropper",
                     "stars": 362
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:39:44.636Z"
                 }
               ],
               "description": "Image manipulation",
@@ -1375,8 +1448,9 @@
             "last_commit": "2026-06-06T10:48:52Z",
             "owner": "angular-split",
             "repo": "angular-split",
-            "stars": 931
-          }
+            "stars": 932
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -1391,7 +1465,8 @@
             "owner": "BTMorton",
             "repo": "angular2-grid",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -1406,7 +1481,8 @@
             "owner": "vsfedorenko",
             "repo": "ngx-fullpage",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -1421,7 +1497,8 @@
             "owner": "mgechev",
             "repo": "ngresizable",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "children": [
@@ -1438,7 +1515,8 @@
                 "owner": "angular",
                 "repo": "flex-layout",
                 "stars": 5827
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -1466,7 +1544,8 @@
                 "owner": "ng-bootstrap",
                 "repo": "ng-bootstrap",
                 "stars": 8228
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1481,7 +1560,8 @@
                 "owner": "vmware-archive",
                 "repo": "clarity",
                 "stars": 6392
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1496,7 +1576,8 @@
                 "owner": "valor-software",
                 "repo": "ngx-bootstrap",
                 "stars": 5516
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1511,7 +1592,8 @@
                 "owner": "Teradata",
                 "repo": "covalent",
                 "stars": 2223
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1526,7 +1608,8 @@
                 "owner": "vladotesanovic",
                 "repo": "ngSemantic",
                 "stars": 964
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1541,7 +1624,8 @@
                 "owner": "edcarroll",
                 "repo": "ng2-semantic-ui",
                 "stars": 609
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1556,7 +1640,8 @@
                 "owner": "InfomediaLtd",
                 "repo": "angular2-materialize",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Set of components + responsive layout system",
@@ -1578,7 +1663,8 @@
                 "owner": "angular",
                 "repo": "components",
                 "stars": 25037
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1589,11 +1675,12 @@
                 "archived": false,
                 "id": 49767244,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T14:26:11Z",
+                "last_commit": "2026-08-27T22:12:38Z",
                 "owner": "primefaces",
                 "repo": "primeng",
-                "stars": 12491
-              }
+                "stars": 12492
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1607,8 +1694,9 @@
                 "last_commit": "2026-08-25T05:31:27Z",
                 "owner": "NG-ZORRO",
                 "repo": "ng-zorro-antd",
-                "stars": 9167
-              }
+                "stars": 9166
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1623,7 +1711,8 @@
                 "owner": "ng-lightning",
                 "repo": "ng-lightning",
                 "stars": 914
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1634,11 +1723,12 @@
                 "archived": false,
                 "id": 51516387,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T13:26:09Z",
+                "last_commit": "2026-08-28T14:35:58Z",
                 "owner": "IgniteUI",
                 "repo": "igniteui-angular",
                 "stars": 602
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1653,7 +1743,8 @@
                 "owner": "DevExpress",
                 "repo": "devextreme-angular",
                 "stars": 561
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1668,7 +1759,8 @@
                 "owner": "mseemann",
                 "repo": "angular2-mdl",
                 "stars": 556
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1683,7 +1775,8 @@
                 "owner": "Promact",
                 "repo": "md2",
                 "stars": 375
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1698,7 +1791,8 @@
                 "owner": "FuelInteractive",
                 "repo": "fuel-ui",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1713,7 +1807,8 @@
                 "owner": "IgniteUI",
                 "repo": "igniteui-angular-wrappers",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Set of components without layout system",
@@ -1731,11 +1826,12 @@
                 "archived": false,
                 "id": 12256376,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T00:55:36Z",
+                "last_commit": "2026-08-28T15:30:08Z",
                 "owner": "ionic-team",
                 "repo": "ionic-framework",
-                "stars": 52632
-              }
+                "stars": 52631
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1750,7 +1846,8 @@
                 "owner": "OnsenUI",
                 "repo": "OnsenUI",
                 "stars": 8857
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -1771,8 +1868,9 @@
                 "last_commit": "2024-09-25T10:12:17Z",
                 "owner": "akveo",
                 "repo": "ngx-admin",
-                "stars": 25690
-              }
+                "stars": 25691
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Admin panels / dashboard",
@@ -1798,7 +1896,8 @@
             "owner": "fulls1z3",
             "repo": "universal",
             "stars": 700
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -1813,7 +1912,8 @@
             "owner": "clbond",
             "repo": "angular-ssr",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         }
       ],
       "title": "Isomorphic Apps"
@@ -1836,7 +1936,8 @@
                 "owner": "ngrx",
                 "repo": "store",
                 "stars": 3867
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1851,7 +1952,8 @@
                 "owner": "angular-redux",
                 "repo": "store",
                 "stars": 1330
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1866,7 +1968,8 @@
                 "owner": "mobxjs",
                 "repo": "mobx-angular",
                 "stars": 482
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -1881,7 +1984,8 @@
                 "owner": "fulls1z3",
                 "repo": "ngx-config",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Data flow / data store / data flow",
@@ -1903,7 +2007,8 @@
                 "owner": "the-guild-org",
                 "repo": "apollo-angular",
                 "stars": 1516
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -1929,7 +2034,8 @@
             "owner": "mgechev",
             "repo": "codelyzer",
             "stars": 2467
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -1944,7 +2050,8 @@
             "owner": "fulls1z3",
             "repo": "angular-tslint-rules",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -1959,7 +2066,8 @@
             "owner": "KarlPurk",
             "repo": "redux-decorators",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -1974,7 +2082,8 @@
             "owner": "shuhei",
             "repo": "babel-plugin-angular2-annotations",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         }
       ],
       "title": "Code Style"
@@ -1997,7 +2106,8 @@
                 "owner": "danrevah",
                 "repo": "ngx-pipes",
                 "stars": 1570
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2012,7 +2122,8 @@
                 "owner": "fknop",
                 "repo": "angular-pipes",
                 "stars": 724
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2027,7 +2138,8 @@
                 "owner": "a8m",
                 "repo": "ng-pipes",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2042,7 +2154,8 @@
                 "owner": "dzonatan",
                 "repo": "ngx-linky",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2064,7 +2177,8 @@
                 "owner": "ngx-formly",
                 "repo": "ngx-formly",
                 "stars": 2966
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2079,7 +2193,8 @@
                 "owner": "guillotinaweb",
                 "repo": "ngx-schema-form",
                 "stars": 483
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2094,7 +2209,8 @@
                 "owner": "ultimatecourses",
                 "repo": "ngx-errors",
                 "stars": 460
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Utilities to help create HTML forms",
@@ -2116,7 +2232,8 @@
                 "owner": "jiayihu",
                 "repo": "ng-animate",
                 "stars": 716
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2138,7 +2255,8 @@
                 "owner": "2muchcoffeecom",
                 "repo": "ngx-restangular",
                 "stars": 775
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2153,7 +2271,8 @@
                 "owner": "Paldom",
                 "repo": "angular2-rest",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2168,7 +2287,8 @@
                 "owner": "zaqqaz",
                 "repo": "ng2-rest-api",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2183,7 +2303,8 @@
                 "owner": "troyanskiy",
                 "repo": "ngx-resource",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2198,7 +2319,8 @@
                 "owner": "ghidoz",
                 "repo": "angular2-jsonapi",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Utilities to consume APIs",
@@ -2220,7 +2342,8 @@
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
                 "stars": 1979
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2235,7 +2358,8 @@
                 "owner": "oauthjs",
                 "repo": "angular-oauth2",
                 "stars": 589
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2250,7 +2374,8 @@
                 "owner": "neroniaky",
                 "repo": "angular-token",
                 "stars": 367
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2265,7 +2390,8 @@
                 "owner": "ronzeidman",
                 "repo": "ng2-ui-auth",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2280,7 +2406,8 @@
                 "owner": "fulls1z3",
                 "repo": "ngx-auth",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2302,7 +2429,8 @@
                 "owner": "arkon",
                 "repo": "ng-click-outside",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2324,7 +2452,8 @@
                 "owner": "Nolanus",
                 "repo": "ngx-page-scroll",
                 "stars": 471
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2339,7 +2468,8 @@
                 "owner": "JonnyBGod",
                 "repo": "ngx-scrollspy",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2354,7 +2484,8 @@
                 "owner": "ng2-ui",
                 "repo": "scrollable",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2376,7 +2507,8 @@
                 "owner": "ManuCutillas",
                 "repo": "ngx-responsive",
                 "stars": 292
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2398,7 +2530,8 @@
                 "owner": "PillowPillow",
                 "repo": "ng2-webstorage",
                 "stars": 426
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2413,7 +2546,8 @@
                 "owner": "marcj",
                 "repo": "angular2-localstorage",
                 "stars": 299
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2428,7 +2562,8 @@
                 "owner": "fulls1z3",
                 "repo": "ngx-cache",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2443,7 +2578,8 @@
                 "owner": "MikaAK",
                 "repo": "angular-safeguard",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2465,7 +2601,8 @@
                 "owner": "salemdar",
                 "repo": "angular2-cookie",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Cookie manipulation",
@@ -2487,7 +2624,8 @@
                 "owner": "gmostert",
                 "repo": "ng2-breadcrumb",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2502,7 +2640,8 @@
                 "owner": "bergben",
                 "repo": "ng2-page-transition",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2517,7 +2656,8 @@
                 "owner": "fulls1z3",
                 "repo": "ngx-i18n-router",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2539,7 +2679,8 @@
                 "owner": "michaelbromley",
                 "repo": "ngx-pagination",
                 "stars": 1232
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2561,7 +2702,8 @@
                 "owner": "yuyang041060120",
                 "repo": "ng2-validation",
                 "stars": 602
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2576,7 +2718,8 @@
                 "owner": "gangachris",
                 "repo": "ng-validators",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2598,7 +2741,8 @@
                 "owner": "ngx-translate",
                 "repo": "core",
                 "stars": 4660
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2613,7 +2757,8 @@
                 "owner": "robisim74",
                 "repo": "angular-l10n",
                 "stars": 375
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2628,7 +2773,8 @@
                 "owner": "fulls1z3",
                 "repo": "ngx-translate",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Internationalization / L10n / localization / translation",
@@ -2650,7 +2796,8 @@
                 "owner": "code-chunks",
                 "repo": "angular2-logger",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2665,7 +2812,8 @@
                 "owner": "noemi-salaun",
                 "repo": "ng-logger",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2687,7 +2835,8 @@
                 "owner": "frankwallis",
                 "repo": "plugin-typescript",
                 "stars": 246
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2702,7 +2851,8 @@
                 "owner": "TheLarkInn",
                 "repo": "angular2-template-loader",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2717,7 +2867,8 @@
                 "owner": "brandonroberts",
                 "repo": "angular-router-loader",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2732,7 +2883,8 @@
                 "owner": "ludohenin",
                 "repo": "gulp-inline-ng2-template",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2747,7 +2899,8 @@
                 "owner": "mgechev",
                 "repo": "angular2-hot-loader",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Utilities for building / bundling / loading assets",
@@ -2769,7 +2922,8 @@
                 "owner": "fulls1z3",
                 "repo": "ngx-meta",
                 "stars": 334
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2784,7 +2938,8 @@
                 "owner": "vinaygopinath",
                 "repo": "ng2-meta",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Set meta tags, , children of",
@@ -2806,7 +2961,8 @@
                 "owner": "maxisam",
                 "repo": "ngx-clipboard",
                 "stars": 509
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Copy & paste text to clipboard",
@@ -2828,7 +2984,8 @@
                 "owner": "ngParty",
                 "repo": "ng-metadata",
                 "stars": 353
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2843,7 +3000,8 @@
                 "owner": "pbastowski",
                 "repo": "angular2-now",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2861,11 +3019,12 @@
                 "archived": false,
                 "id": 71109869,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T01:41:38Z",
+                "last_commit": "2026-08-27T23:04:17Z",
                 "owner": "compodoc",
                 "repo": "compodoc",
                 "stars": 4120
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2887,7 +3046,8 @@
                 "owner": "manekinekko",
                 "repo": "angular-web-bluetooth",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2902,7 +3062,8 @@
                 "owner": "urish",
                 "repo": "angular-iot",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": "Internet of Things",
@@ -2924,7 +3085,8 @@
                 "owner": "isaacplmann",
                 "repo": "ngx-tour",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -2950,7 +3112,8 @@
             "owner": "PatrickJS",
             "repo": "angular-idle-preload",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "children": [
@@ -2967,7 +3130,8 @@
                 "owner": "tjoskar",
                 "repo": "ng-lazyload-image",
                 "stars": 751
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             },
             {
               "node_type": "item",
@@ -2982,7 +3146,8 @@
                 "owner": "NathanWalker",
                 "repo": "ng2-image-lazy-load",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
             }
           ],
           "description": null,
@@ -3008,7 +3173,8 @@
             "owner": "angular",
             "repo": "angularfire",
             "stars": 7804
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3019,11 +3185,12 @@
             "archived": false,
             "id": 44948282,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T01:27:05Z",
+            "last_commit": "2026-08-28T00:07:44Z",
             "owner": "auth0",
             "repo": "angular2-jwt",
             "stars": 2624
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3038,7 +3205,8 @@
             "owner": "Urigo",
             "repo": "angular-meteor",
             "stars": 2335
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3052,8 +3220,9 @@
             "last_commit": "2026-01-13T11:52:49Z",
             "owner": "angulartics",
             "repo": "angulartics2",
-            "stars": 1008
-          }
+            "stars": 1007
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3068,7 +3237,8 @@
             "owner": "angular",
             "repo": "react-native-renderer",
             "stars": 786
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3083,7 +3253,8 @@
             "owner": "DethAriel",
             "repo": "ng-recaptcha",
             "stars": 475
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3098,7 +3269,8 @@
             "owner": "mean-expert-official",
             "repo": "loopback-sdk-builder",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3113,7 +3285,8 @@
             "owner": "monounity",
             "repo": "karma-typescript",
             "stars": 314
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3124,11 +3297,12 @@
             "archived": false,
             "id": 55400726,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:27:01Z",
+            "last_commit": "2026-08-28T15:38:24Z",
             "owner": "Alfresco",
             "repo": "alfresco-ng2-components",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3143,7 +3317,8 @@
             "owner": "cloudinary",
             "repo": "cloudinary_angular",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3158,7 +3333,8 @@
             "owner": "wordpress-clients",
             "repo": "wp-api-angular",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3173,7 +3349,8 @@
             "owner": "Urigo",
             "repo": "meteor-rxjs",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3188,7 +3365,8 @@
             "owner": "MurhafSousli",
             "repo": "ngx-disqus",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3203,7 +3381,8 @@
             "owner": "xmaestro",
             "repo": "angular2-recaptcha",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3218,7 +3397,8 @@
             "owner": "MurhafSousli",
             "repo": "ngx-wordpress",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3233,7 +3413,8 @@
             "owner": "tomwayson",
             "repo": "angular-esri-loader",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3248,7 +3429,8 @@
             "owner": "pubnub",
             "repo": "pubnub-angular2",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3263,7 +3445,8 @@
             "owner": "fulls1z3",
             "repo": "ngx-universal",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3278,7 +3461,8 @@
             "owner": "JayChase",
             "repo": "angular2-disqus",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3293,7 +3477,8 @@
             "owner": "selfbits",
             "repo": "selfbits-angular2-sdk",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         }
       ],
       "title": "Integrations"
@@ -3314,7 +3499,8 @@
             "owner": "rangle",
             "repo": "augury",
             "stars": 1990
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3329,7 +3515,8 @@
             "owner": "compodoc",
             "repo": "ngd",
             "stars": 609
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3344,7 +3531,8 @@
             "owner": "SoCreate",
             "repo": "angular-playground",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3359,7 +3547,8 @@
             "owner": "ngrx",
             "repo": "store-devtools",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3374,7 +3563,8 @@
             "owner": "matiboy",
             "repo": "angular2-prettyjson",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         }
       ],
       "title": "Dev Tools"
@@ -3391,11 +3581,12 @@
             "archived": false,
             "id": 36891867,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:34:41Z",
+            "last_commit": "2026-08-28T15:21:13Z",
             "owner": "angular",
             "repo": "angular-cli",
-            "stars": 27021
-          }
+            "stars": 27022
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3410,7 +3601,8 @@
             "owner": "PatrickJS",
             "repo": "angular-webpack-starter",
             "stars": 10209
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3425,7 +3617,8 @@
             "owner": "mgechev",
             "repo": "angular-seed",
             "stars": 4520
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3440,7 +3633,8 @@
             "owner": "colmena",
             "repo": "colmena",
             "stars": 1382
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3455,7 +3649,8 @@
             "owner": "preboot",
             "repo": "angular-webpack",
             "stars": 1271
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3470,7 +3665,8 @@
             "owner": "angular",
             "repo": "angular2-seed",
             "stars": 998
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3485,7 +3681,8 @@
             "owner": "fulls1z3",
             "repo": "universal",
             "stars": 700
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3500,7 +3697,8 @@
             "owner": "ericmdantas",
             "repo": "generator-ng-fullstack",
             "stars": 692
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3515,7 +3713,8 @@
             "owner": "antonybudianto",
             "repo": "angular-starter",
             "stars": 513
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3526,11 +3725,12 @@
             "archived": false,
             "id": 31741408,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T04:54:33Z",
+            "last_commit": "2026-08-28T14:52:02Z",
             "owner": "cdwmyk",
             "repo": "generator-angular2",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3545,7 +3745,8 @@
             "owner": "alexpods",
             "repo": "angular2-universal-starter",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3560,7 +3761,8 @@
             "owner": "preboot",
             "repo": "angular-library-seed",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3575,7 +3777,8 @@
             "owner": "cmelion",
             "repo": "generator-ng2-webpack",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3590,7 +3793,8 @@
             "owner": "vmware-archive",
             "repo": "clarity-seed",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3605,7 +3809,8 @@
             "owner": "dsebastien",
             "repo": "modernWebDevGenerator",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3620,7 +3825,8 @@
             "owner": "x6doooo",
             "repo": "generator-gulp-angular2",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         },
         {
           "node_type": "item",
@@ -3635,14 +3841,15 @@
             "owner": "manekinekko",
             "repo": "angular-library-starter",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T15:39:44.636Z"
         }
       ],
       "title": "Starter Kit"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:45:37.177Z",
+    "last_updated": "2026-08-28T15:39:44.636Z",
     "original_repository_info": {
       "archived": false,
       "id": 80735683,
