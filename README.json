@@ -1270,8 +1270,8 @@
                 "id": 81023009,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T21:42:19Z",
-                "open_issues": 29,
+                "last_commit": "2026-08-30T16:25:17Z",
+                "open_issues": 30,
                 "owner": "jfcere",
                 "repo": "ngx-markdown",
                 "stars": 1191,
@@ -2516,7 +2516,7 @@
                 "open_issues": 1372,
                 "owner": "angular",
                 "repo": "components",
-                "stars": 25042,
+                "stars": 25043,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -2539,7 +2539,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T22:12:38Z",
-                "open_issues": 1278,
+                "open_issues": 1276,
                 "owner": "primefaces",
                 "repo": "primeng",
                 "stars": 12492,
@@ -2630,8 +2630,8 @@
                 "id": 51516387,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T14:35:58Z",
-                "open_issues": 73,
+                "last_commit": "2026-08-31T09:17:27Z",
+                "open_issues": 68,
                 "owner": "IgniteUI",
                 "repo": "igniteui-angular",
                 "stars": 602,
@@ -2813,7 +2813,7 @@
                 "open_issues": 592,
                 "owner": "ionic-team",
                 "repo": "ionic-framework",
-                "stars": 52636,
+                "stars": 52637,
                 "topics": [
                   "angular",
                   "capacitor",
@@ -2897,7 +2897,7 @@
                 "open_issues": 495,
                 "owner": "akveo",
                 "repo": "ngx-admin",
-                "stars": 25694,
+                "stars": 25693,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -3021,7 +3021,7 @@
                 "open_issues": 10,
                 "owner": "ngrx",
                 "repo": "store",
-                "stars": 3867,
+                "stars": 3866,
                 "topics": [
                   "angular",
                   "ngrx",
@@ -3047,7 +3047,7 @@
                 "open_issues": 67,
                 "owner": "angular-redux",
                 "repo": "store",
-                "stars": 1330,
+                "stars": 1329,
                 "topics": [
                   "angular",
                   "ng2-redux",
@@ -4721,7 +4721,7 @@
                 "id": 71109869,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T16:36:44Z",
+                "last_commit": "2026-08-30T18:49:22Z",
                 "open_issues": 43,
                 "owner": "compodoc",
                 "repo": "compodoc",
@@ -5168,8 +5168,8 @@
             "id": 55400726,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T07:11:16Z",
-            "open_issues": 64,
+            "last_commit": "2026-08-31T01:42:58Z",
+            "open_issues": 66,
             "owner": "Alfresco",
             "repo": "alfresco-ng2-components",
             "stars": 304,
@@ -5568,7 +5568,7 @@
             "open_issues": 24,
             "owner": "ngrx",
             "repo": "store-devtools",
-            "stars": 325,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:44.636Z"
@@ -5613,7 +5613,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T15:45:30Z",
-            "open_issues": 264,
+            "open_issues": 268,
             "owner": "angular",
             "repo": "angular-cli",
             "stars": 27020,
@@ -5642,7 +5642,7 @@
             "open_issues": 0,
             "owner": "PatrickJS",
             "repo": "angular-webpack-starter",
-            "stars": 10209,
+            "stars": 10208,
             "topics": [
               "angular",
               "mfe",
@@ -5733,7 +5733,7 @@
             "open_issues": 58,
             "owner": "preboot",
             "repo": "angular-webpack",
-            "stars": 1271,
+            "stars": 1270,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:44.636Z"
@@ -6046,7 +6046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:27:50.299Z",
+    "last_updated": "2026-08-31T10:04:53.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "Catalog of Angular 2+ Components & Libraries",
