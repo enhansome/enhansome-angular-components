@@ -679,7 +679,7 @@
                 "open_issues": 891,
                 "owner": "swimlane",
                 "repo": "ngx-charts",
-                "stars": 4363,
+                "stars": 4364,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -2406,8 +2406,8 @@
                 "id": 63109541,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T19:55:24Z",
-                "open_issues": 134,
+                "last_commit": "2026-09-08T23:17:13Z",
+                "open_issues": 133,
                 "owner": "Teradata",
                 "repo": "covalent",
                 "stars": 2224,
@@ -2512,11 +2512,11 @@
                 "id": 49016322,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T05:19:09Z",
-                "open_issues": 1375,
+                "last_commit": "2026-09-08T22:44:41Z",
+                "open_issues": 1371,
                 "owner": "angular",
                 "repo": "components",
-                "stars": 25045,
+                "stars": 25048,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -2539,10 +2539,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-05T21:58:21Z",
-                "open_issues": 1271,
+                "open_issues": 1270,
                 "owner": "primefaces",
                 "repo": "primeng",
-                "stars": 12495,
+                "stars": 12494,
                 "topics": [
                   "angular",
                   "charts",
@@ -2568,11 +2568,11 @@
                 "id": 99705100,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T15:37:41Z",
-                "open_issues": 786,
+                "last_commit": "2026-09-09T07:52:28Z",
+                "open_issues": 788,
                 "owner": "NG-ZORRO",
                 "repo": "ng-zorro-antd",
-                "stars": 9169,
+                "stars": 9170,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -2630,8 +2630,8 @@
                 "id": 51516387,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T08:13:23Z",
-                "open_issues": 60,
+                "last_commit": "2026-09-09T07:24:54Z",
+                "open_issues": 64,
                 "owner": "IgniteUI",
                 "repo": "igniteui-angular",
                 "stars": 599,
@@ -2809,11 +2809,11 @@
                 "id": 12256376,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T01:49:09Z",
-                "open_issues": 594,
+                "last_commit": "2026-09-09T02:36:29Z",
+                "open_issues": 596,
                 "owner": "ionic-team",
                 "repo": "ionic-framework",
-                "stars": 52646,
+                "stars": 52650,
                 "topics": [
                   "angular",
                   "capacitor",
@@ -2897,7 +2897,7 @@
                 "open_issues": 495,
                 "owner": "akveo",
                 "repo": "ngx-admin",
-                "stars": 25685,
+                "stars": 25686,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -3143,7 +3143,7 @@
                 "open_issues": 32,
                 "owner": "the-guild-org",
                 "repo": "apollo-angular",
-                "stars": 1516,
+                "stars": 1515,
                 "topics": [
                   "angular",
                   "apollo-client",
@@ -3401,8 +3401,8 @@
                 "id": 33647441,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-17T17:07:24Z",
-                "open_issues": 39,
+                "last_commit": "2026-09-09T06:48:31Z",
+                "open_issues": 41,
                 "owner": "ngx-formly",
                 "repo": "ngx-formly",
                 "stars": 2967,
@@ -3600,6 +3600,30 @@
             },
             {
               "node_type": "item",
+              "title": "angular2-jsonapi",
+              "description": "A lightweight Angular 2 adapter for JSON API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A lightweight Angular 2 adapter for JSON API",
+                "homepage": null,
+                "id": 64756996,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2023-03-02T12:14:30Z",
+                "open_issues": 85,
+                "owner": "ghidoz",
+                "repo": "angular2-jsonapi",
+                "stars": 199,
+                "topics": [
+                  "angular2",
+                  "json-api"
+                ]
+              },
+              "first_seen": "2026-08-28T15:39:44.636Z"
+            },
+            {
+              "node_type": "item",
               "title": "ng2-resource-rest",
               "description": "Resource (REST) Client for Angular 2.",
               "children": [],
@@ -3621,30 +3645,6 @@
                   "requests",
                   "rest",
                   "rest-api"
-                ]
-              },
-              "first_seen": "2026-08-28T15:39:44.636Z"
-            },
-            {
-              "node_type": "item",
-              "title": "angular2-jsonapi",
-              "description": "A lightweight Angular 2 adapter for JSON API.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A lightweight Angular 2 adapter for JSON API",
-                "homepage": null,
-                "id": 64756996,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2023-03-02T12:14:30Z",
-                "open_issues": 85,
-                "owner": "ghidoz",
-                "repo": "angular2-jsonapi",
-                "stars": 198,
-                "topics": [
-                  "angular2",
-                  "json-api"
                 ]
               },
               "first_seen": "2026-08-28T15:39:44.636Z"
@@ -4290,7 +4290,7 @@
                 "open_issues": 97,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4663,
+                "stars": 4662,
                 "topics": [
                   "angular",
                   "i18n",
@@ -5168,7 +5168,7 @@
             "id": 55400726,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T07:26:51Z",
+            "last_commit": "2026-09-09T07:41:53Z",
             "open_issues": 63,
             "owner": "Alfresco",
             "repo": "alfresco-ng2-components",
@@ -5612,11 +5612,11 @@
             "id": 36891867,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T15:18:28Z",
-            "open_issues": 268,
+            "last_commit": "2026-09-09T06:55:23Z",
+            "open_issues": 265,
             "owner": "angular",
             "repo": "angular-cli",
-            "stars": 27020,
+            "stars": 27021,
             "topics": [
               "angular",
               "angular-cli",
@@ -6046,7 +6046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:19:52.552Z",
+    "last_updated": "2026-09-09T08:22:54.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "Catalog of Angular 2+ Components & Libraries",
