@@ -98,7 +98,7 @@
 
 *Overlay / modal / alert / dialog / lightbox / popup*
 
-* [angular2-modal](https://github.com/shlomiassaf/angular2-modal) ⭐ 679 | 🐛 141 | 🌐 TypeScript | 📅 2020-12-21 - Angular2 Modal / Dialog window.
+* [angular2-modal](https://github.com/shlomiassaf/angular2-modal) ⭐ 678 | 🐛 141 | 🌐 TypeScript | 📅 2020-12-21 - Angular2 Modal / Dialog window.
 * [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) ⚠️ Archived - Angular2 Bootstrap3 Modal Component.
 
 ###### Notification
@@ -118,15 +118,15 @@
 
 *Show a little dialog next to an element*
 
-* [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) ⭐ 201 | 🐛 0 | 🌐 TypeScript | 📅 2024-02-28 - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).
+* [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) ⭐ 200 | 🐛 0 | 🌐 TypeScript | 📅 2024-02-28 - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).
 
 ###### Table
 
 *Table / Data Grid — Display (large) datasets*
 
-* [@swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) ⭐ 4,669 | 🐛 917 | 🌐 TypeScript | 📅 2026-08-11 - A feature-rich yet lightweight data-table crafted for Angular2 and beyond.
-* [ng2-smart-table](https://github.com/akveo/ng2-smart-table) ⭐ 1,618 | 🐛 954 | 🌐 TypeScript | 📅 2024-08-12 - Angular 2 Smart Data Table component.
-* [ng2-table](https://github.com/valor-software/ng2-table) ⭐ 544 | 🐛 319 | 🌐 TypeScript | 📅 2022-10-26 - Simple table extension with sorting, filtering, paging... for Angular2 apps.
+* [@swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) ⭐ 4,668 | 🐛 916 | 🌐 TypeScript | 📅 2026-08-11 - A feature-rich yet lightweight data-table crafted for Angular2 and beyond.
+* [ng2-smart-table](https://github.com/akveo/ng2-smart-table) ⭐ 1,617 | 🐛 954 | 🌐 TypeScript | 📅 2024-08-12 - Angular 2 Smart Data Table component.
+* [ng2-table](https://github.com/valor-software/ng2-table) ⭐ 543 | 🐛 319 | 🌐 TypeScript | 📅 2022-10-26 - Simple table extension with sorting, filtering, paging... for Angular2 apps.
 * [ng2-easy-table](https://github.com/ssuperczynski/ng2-easy-table) ⚠️ Archived - The easiest Angular2 table.
 * [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) ⭐ 270 | 🐛 46 | 🌐 TypeScript | 📅 2018-07-05 - Angular 2 directive for Handsontable.
 * [angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) ⭐ 199 | 🐛 92 | 🌐 TypeScript | 📅 2018-09-03 - DataTable - Simple table component with sorting and pagination for Angular2.
@@ -144,7 +144,7 @@
 *Let the user know that something is being loaded*
 
 * [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) ⭐ 1,051 | 🐛 14 | 🌐 TypeScript | 📅 2026-02-07 - Angular progress bar.
-* [ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) ⭐ 351 | 🐛 25 | 🌐 TypeScript | 📅 2019-12-30 - Angular 2 component shows slim loading bar at the top of the page.
+* [ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) ⭐ 350 | 🐛 25 | 🌐 TypeScript | 📅 2019-12-30 - Angular 2 component shows slim loading bar at the top of the page.
 * [angular2-busy](https://github.com/devyumao/angular2-busy) ⭐ 313 | 🐛 55 | 🌐 TypeScript | 📅 2017-10-02 - Show busy/loading indicators on any promise, or on any Observable's subscription.
 * [angular2-ladda](https://github.com/moff/angular2-ladda) ⭐ 96 | 🐛 4 | 🌐 TypeScript | 📅 2023-04-17 - Angular 2 Ladda module.
 * [ng-spin-kit](https://github.com/WoltersKluwerPL/ng-spin-kit) - SpinKit ( spinners for Angular 2+.
@@ -157,10 +157,10 @@
 
 ###### Charts
 
-* [ngx-charts](https://github.com/swimlane/ngx-charts) ⭐ 4,363 | 🐛 892 | 🌐 TypeScript | 📅 2026-10-05 - Declarative Charting Framework for Angular2 and beyond.
-* [ng2-charts](https://github.com/valor-software/ng2-charts) ⭐ 2,400 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-29 - Beautiful charts for Angular2 based on Chart.js.
+* [ngx-charts](https://github.com/swimlane/ngx-charts) ⭐ 4,361 | 🐛 892 | 🌐 TypeScript | 📅 2026-10-05 - Declarative Charting Framework for Angular2 and beyond.
+* [ng2-charts](https://github.com/valor-software/ng2-charts) ⭐ 2,399 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-29 - Beautiful charts for Angular2 based on Chart.js.
 * [angular2-highcharts](https://github.com/gevgeny/angular2-highcharts) ⭐ 375 | 🐛 109 | 🌐 TypeScript | 📅 2020-08-25 - Highcharts for your Angular2 project.
-* [ng2-nvd3](https://github.com/krispo/ng2-nvd3) ⭐ 324 | 🐛 107 | 🌐 TypeScript | 📅 2022-07-18 - Angular2 component for nvd3.
+* [ng2-nvd3](https://github.com/krispo/ng2-nvd3) ⭐ 323 | 🐛 107 | 🌐 TypeScript | 📅 2022-07-18 - Angular2 component for nvd3.
 
 ###### Map
 
@@ -170,7 +170,7 @@
 
 ###### List Virtualization
 
-* [od-virtualscroll](https://github.com/dinony/od-virtualscroll) ⭐ 133 | 🐛 11 | 🌐 TypeScript | 📅 2018-11-29 - Observable-based virtual scroll implementation in Angular
+* [od-virtualscroll](https://github.com/dinony/od-virtualscroll) ⭐ 132 | 🐛 11 | 🌐 TypeScript | 📅 2018-11-29 - Observable-based virtual scroll implementation in Angular
 
 ###### Infinite Scroll
 
@@ -186,7 +186,7 @@
 
 *Replace the browser scrollbar with a custom one*
 
-* [angular2-perfect-scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar) ⭐ 519 | 🐛 87 | 🌐 TypeScript | 📅 2023-07-07 - Angular 2 wrapper library for perfect scrollbar.
+* [angular2-perfect-scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar) ⭐ 518 | 🐛 87 | 🌐 TypeScript | 📅 2023-07-07 - Angular 2 wrapper library for perfect scrollbar.
 
 ###### Carousel
 
@@ -262,7 +262,7 @@
 
 *Let the user choose from a list of options*
 
-* [ng2-select](https://github.com/valor-software/ng2-select) ⭐ 665 | 🐛 401 | 🌐 TypeScript | 📅 2024-08-20 - Angular2 based replacement for select boxes.
+* [ng2-select](https://github.com/valor-software/ng2-select) ⭐ 663 | 🐛 401 | 🌐 TypeScript | 📅 2024-08-20 - Angular2 based replacement for select boxes.
 * [angular2-select](https://github.com/basvandenberg/angular2-select) ⚠️ Archived - A native angular 2 select component (based on select2).
 
 ###### Autocomplete
@@ -280,8 +280,8 @@
 
 ###### Drag and Drop
 
-* [ng2-dragula](https://github.com/valor-software/ng2-dragula) ⭐ 1,907 | 🐛 95 | 🌐 TypeScript | 📅 2026-03-06 - Simple drag and drop with dragula.
-* [ng2-dnd](https://github.com/akserg/ng2-dnd) ⭐ 830 | 🐛 207 | 🌐 TypeScript | 📅 2023-01-08 - Angular 2 Drag-and-Drop without dependencies.
+* [ng2-dragula](https://github.com/valor-software/ng2-dragula) ⭐ 1,905 | 🐛 95 | 🌐 TypeScript | 📅 2026-03-06 - Simple drag and drop with dragula.
+* [ng2-dnd](https://github.com/akserg/ng2-dnd) ⭐ 829 | 🐛 207 | 🌐 TypeScript | 📅 2023-01-08 - Angular 2 Drag-and-Drop without dependencies.
 * [ng-drag-drop](https://github.com/ObaidUrRehman/ng-drag-drop) ⭐ 240 | 🐛 75 | 🌐 TypeScript | 📅 2022-07-07 - Angular 4 Drag & Drop based on HTML5 with no external dependencies.
 
 ###### Sortable List
@@ -303,7 +303,7 @@
 
 ###### File Upload
 
-* [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) ⭐ 1,897 | 🐛 416 | 🌐 TypeScript | 📅 2026-10-07 - Easy to use Angular2 components for files upload.
+* [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) ⭐ 1,896 | 🐛 416 | 🌐 TypeScript | 📅 2026-10-07 - Easy to use Angular2 components for files upload.
 * [angular2-dropzone-wrapper](https://github.com/zefoy/ngx-dropzone-wrapper) ⭐ 171 | 🐛 44 | 🌐 TypeScript | 📅 2025-03-09 - Angular 2 wrapper library for dropzone.
 * [ngx-uploader](https://github.com/jkuri/ngx-uploader) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2023-12-01 - Angular File Uploader.
 
@@ -315,7 +315,7 @@
 
 *Show & edit events in a calendar view*
 
-* [angular2-calendar](https://github.com/mattlewis92/angular2-calendar) ⭐ 2,815 | 🐛 98 | 🌐 TypeScript | 📅 2026-04-08 - A flexible calendar component for angular 2.0+ that can display events on a month, week or day view.
+* [angular2-calendar](https://github.com/mattlewis92/angular2-calendar) ⭐ 2,813 | 🐛 98 | 🌐 TypeScript | 📅 2026-04-08 - A flexible calendar component for angular 2.0+ that can display events on a month, week or day view.
 * [angular2-fullcalendar](https://github.com/nekken/ng2-fullcalendar) ⭐ 93 | 🐛 47 | 🌐 TypeScript | 📅 2018-05-26 - An Angular 2 component for fullcalendar.
 
 ###### Image Editing
@@ -328,10 +328,10 @@
 
 *Layout the overall / main view*
 
-* [angular-split](https://github.com/bertrandg/angular-split) ⭐ 933 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-06 - Angular (2+) UI library to split views.
+* [angular-split](https://github.com/bertrandg/angular-split) ⭐ 932 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-06 - Angular (2+) UI library to split views.
 * [angular2-grid](https://github.com/BTMorton/angular2-grid) ⚠️ Archived - A grid-based drag/drop/resize directive plugin for Angular 2.
-* [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) ⭐ 273 | 🐛 29 | 🌐 TypeScript | 📅 2020-06-02 - Angular 2 fullpage scrolling.
-* [ngresizable](https://github.com/mgechev/ngresizable) ⭐ 115 | 🐛 2 | 🌐 TypeScript | 📅 2022-01-27 - Simple, tree-shakable, AoT, Universal and Web Worker friendly resizable component for Angular
+* [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) ⭐ 272 | 🐛 29 | 🌐 TypeScript | 📅 2020-06-02 - Angular 2 fullpage scrolling.
+* [ngresizable](https://github.com/mgechev/ngresizable) ⭐ 114 | 🐛 2 | 🌐 TypeScript | 📅 2022-01-27 - Simple, tree-shakable, AoT, Universal and Web Worker friendly resizable component for Angular
 
 ###### Responsive
 
@@ -343,9 +343,9 @@
 
 *Set of components + responsive layout system*
 
-* [@ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) ⭐ 8,224 | 🐛 442 | 🌐 TypeScript | 📅 2026-06-22 - Angular powered Bootstrap.
+* [@ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) ⭐ 8,223 | 🐛 442 | 🌐 TypeScript | 📅 2026-06-22 - Angular powered Bootstrap.
 * [clarity-angular](https://github.com/vmware/clarity) ⚠️ Archived - Clarity Design System: UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences.
-* [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) ⭐ 5,510 | 🐛 616 | 🌐 TypeScript | 📅 2026-08-17 - Native Angular directives for Bootstrap.
+* [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) ⭐ 5,508 | 🐛 616 | 🌐 TypeScript | 📅 2026-08-17 - Native Angular directives for Bootstrap.
 * [@covalent/core](https://github.com/teradata/covalent) ⭐ 2,223 | 🐛 134 | 🌐 TypeScript | 📅 2026-10-02 - Teradata UI Platform built on Angular-Material 2.0.
 * [ng-semantic](https://github.com/vladotesanovic/ngSemantic) ⭐ 963 | 🐛 94 | 🌐 TypeScript | 📅 2019-04-16 - Angular 2 building blocks based on Semantic UI.
 * [ng2-semantic-ui](https://github.com/edcarroll/ng2-semantic-ui) ⭐ 609 | 🐛 139 | 🌐 TypeScript | 📅 2020-10-01 - Semantic UI Angular 2 Integrations -- no JQuery required --.
@@ -355,27 +355,27 @@
 
 *Set of components without layout system*
 
-* [@angular/material](https://github.com/angular/material2) ⭐ 25,033 | 🐛 1,385 | 🌐 TypeScript | 📅 2026-10-07 - Official Material Design components for Angular.
-* [primeng](https://github.com/primefaces/primeng) ⭐ 12,482 | 🐛 1,276 | 🌐 TypeScript | 📅 2026-09-24 - UI Components for Angular 2.
-* [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,179 | 🐛 801 | 🌐 TypeScript | 📅 2026-10-08 - An enterprise-class UI components based on Ant Design and Angular.
-* [ng-lightning](https://github.com/ng-lightning/ng-lightning) ⭐ 912 | 🐛 49 | 🌐 TypeScript | 📅 2024-07-03 - Native Angular 2 components & directives for Lightning Design System.
-* [igniteui-js-blocks](https://github.com/IgniteUI/igniteui-js-blocks) ⭐ 599 | 🐛 99 | 🌐 TypeScript | 📅 2026-10-08 - Mobile-first Angular native components.
+* [@angular/material](https://github.com/angular/material2) ⭐ 25,034 | 🐛 1,387 | 🌐 TypeScript | 📅 2026-10-07 - Official Material Design components for Angular.
+* [primeng](https://github.com/primefaces/primeng) ⭐ 12,484 | 🐛 1,276 | 🌐 TypeScript | 📅 2026-09-24 - UI Components for Angular 2.
+* [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) ⭐ 9,179 | 🐛 801 | 🌐 TypeScript | 📅 2026-10-09 - An enterprise-class UI components based on Ant Design and Angular.
+* [ng-lightning](https://github.com/ng-lightning/ng-lightning) ⭐ 911 | 🐛 49 | 🌐 TypeScript | 📅 2024-07-03 - Native Angular 2 components & directives for Lightning Design System.
+* [igniteui-js-blocks](https://github.com/IgniteUI/igniteui-js-blocks) ⭐ 599 | 🐛 106 | 🌐 TypeScript | 📅 2026-10-09 - Mobile-first Angular native components.
 * [devextreme-angular](https://github.com/DevExpress/devextreme-angular) ⚠️ Archived - Angular 2 UI and visualization components based on DevExtreme widgets.
 * [angular2-mdl](https://github.com/mseemann/angular2-mdl) ⭐ 556 | 🐛 28 | 🌐 TypeScript | 📅 2023-03-04 - Angular 2 components, directives and styles based on material design lite.
 * [md2](https://github.com/Promact/md2) ⚠️ Archived - Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.
-* [fuel-ui](https://github.com/FuelInteractive/fuel-ui) ⭐ 295 | 🐛 23 | 🌐 JavaScript | 📅 2019-05-14 - UI Components for use with Angular2 and Bootstrap4.
+* [fuel-ui](https://github.com/FuelInteractive/fuel-ui) ⭐ 294 | 🐛 23 | 🌐 JavaScript | 📅 2019-05-14 - UI Components for use with Angular2 and Bootstrap4.
 * [igniteui-angular2](https://github.com/IgniteUI/igniteui-angular2) ⚠️ Archived - Ignite UI directives for Angular 2.
 
 ### Mobile
 
-* [ionic2](https://github.com/driftyco/ionic) ⭐ 52,687 | 🐛 564 | 🌐 TypeScript | 📅 2026-10-08 - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything.
-* [angular2-onsenui](https://github.com/onsenui/onsenui) ⭐ 8,854 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-17 - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
+* [ionic2](https://github.com/driftyco/ionic) ⭐ 52,688 | 🐛 559 | 🌐 TypeScript | 📅 2026-10-09 - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything.
+* [angular2-onsenui](https://github.com/onsenui/onsenui) ⭐ 8,852 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-17 - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 
 ### Admin panel
 
 *Admin panels / dashboard*
 
-* [ngx-admin](https://github.com/akveo/ngx-admin) ⭐ 25,680 | 🐛 497 | 🌐 TypeScript | 📅 2024-09-25 - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+).
+* [ngx-admin](https://github.com/akveo/ngx-admin) ⭐ 25,678 | 🐛 497 | 🌐 TypeScript | 📅 2024-09-25 - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+).
 
 # Isomorphic Apps
 
@@ -393,19 +393,19 @@
 *Data flow / data store / data flow*
 
 * [@ngrx/store](https://github.com/ngrx/store) ⚠️ Archived - RxJS powered state management for Angular applications, inspired by Redux.
-* [@angular-redux/store](https://github.com/angular-redux/store) ⭐ 1,324 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05 - Angular 2 bindings for Redux.
-* [mobx-angular](https://github.com/mobxjs/mobx-angular) ⭐ 480 | 🐛 10 | 🌐 TypeScript | 📅 2024-12-09 - MobX connector to Angular 2.
+* [@angular-redux/store](https://github.com/angular-redux/store) ⭐ 1,323 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05 - Angular 2 bindings for Redux.
+* [mobx-angular](https://github.com/mobxjs/mobx-angular) ⭐ 479 | 🐛 10 | 🌐 TypeScript | 📅 2024-12-09 - MobX connector to Angular 2.
 * [@ngx-config/core](https://github.com/fulls1z3/ngx-config) ⭐ 144 | 🐛 4 | 🌐 TypeScript | 📅 2021-07-21 - Configuration utility for Angular.
 
 ### Communication with Server
 
-* [apollo-angular](https://github.com/apollographql/apollo-angular) ⭐ 1,514 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-11 - Angular integration for the Apollo Client.
+* [apollo-angular](https://github.com/apollographql/apollo-angular) ⭐ 1,513 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-11 - Angular integration for the Apollo Client.
 
 # Code Style
 
 *Improve readability of the source code*
 
-* [codelyzer](https://github.com/mgechev/codelyzer) ⭐ 2,468 | 🐛 82 | 🌐 TypeScript | 📅 2026-09-30 - Linting for Angular projects.
+* [codelyzer](https://github.com/mgechev/codelyzer) ⭐ 2,466 | 🐛 82 | 🌐 TypeScript | 📅 2026-09-30 - Linting for Angular projects.
 * [angular-tslint-rules](https://github.com/ng-seed/angular-tslint-rules) ⚠️ Archived - Shared TSLint & codelyzer rules to enforce a consistent code style for Angular development.
 * [redux-decorators](https://github.com/KarlPurk/redux-decorators) ⭐ 89 | 🐛 5 | 🌐 TypeScript | 📅 2016-08-08 - A ridiculously good syntax for working with Redux using decorators in ES7 / TypeScript. Currently limited to Angular 2 but could potentially be used elsewhere.
 * [babel-plugin-angular2-annotations](https://github.com/shuhei/babel-plugin-angular2-annotations) ⭐ 79 | 🐛 3 | 🌐 JavaScript | 📅 2016-12-31 - A babel transformer plugin for Angular 2 annotations.
@@ -423,9 +423,9 @@
 
 *Utilities to help create HTML forms*
 
-* [ng-formly](https://github.com/formly-js/ng-formly) ⭐ 2,966 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-08 - JavaScript powered FORMS for ANGULAR 2.x and above.
+* [ng-formly](https://github.com/formly-js/ng-formly) ⭐ 2,967 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-08 - JavaScript powered FORMS for ANGULAR 2.x and above.
 * [angular2-schema-form](https://github.com/makinacorpus/angular2-schema-form) ⭐ 482 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-28 - Angular2 Schema Form (DISCLAIMER: it is not related to angular-schema-form).
-* [@ultimate/ngxerrors](https://github.com/UltimateAngular/ngxerrors) ⭐ 460 | 🐛 38 | 🌐 TypeScript | 📅 2022-12-06 - A declarative validation module for reactive forms.
+* [@ultimate/ngxerrors](https://github.com/UltimateAngular/ngxerrors) ⭐ 459 | 🐛 38 | 🌐 TypeScript | 📅 2022-12-06 - A declarative validation module for reactive forms.
 
 ###### Animations
 
@@ -438,15 +438,15 @@
 * [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) ⭐ 773 | 🐛 37 | 🌐 TypeScript | 📅 2023-01-06 - Restangular for Angular 2+ and higher versions.
 * [angular2-rest](https://github.com/Paldom/angular2-rest) ⭐ 247 | 🐛 17 | 🌐 TypeScript | 📅 2018-11-12 - Angular2 HTTP client to consume RESTful services. Built with TypeScript.
 * [ng2-rest-api](https://github.com/zaqqaz/ng2-rest-api) ⭐ 206 | 🐛 0 | 🌐 TypeScript | 📅 2016-11-07 - Rest API provider for angular 2.
-* [angular2-jsonapi](https://github.com/ghidoz/angular2-jsonapi) ⭐ 199 | 🐛 85 | 🌐 TypeScript | 📅 2023-03-02 - A lightweight Angular 2 adapter for JSON API.
 * [ng2-resource-rest](https://github.com/troyanskiy/ng2-resource-rest) ⭐ 198 | 🐛 38 | 🌐 TypeScript | 📅 2025-09-08 - Resource (REST) Client for Angular 2.
+* [angular2-jsonapi](https://github.com/ghidoz/angular2-jsonapi) ⭐ 198 | 🐛 85 | 🌐 TypeScript | 📅 2023-03-02 - A lightweight Angular 2 adapter for JSON API.
 
 ###### Authentication
 
-* [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,983 | 🐛 309 | 🌐 TypeScript | 📅 2026-07-05 - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
+* [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,982 | 🐛 309 | 🌐 TypeScript | 📅 2026-07-05 - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
 * [angular-oauth2](https://github.com/oauthjs/angular-oauth2) ⭐ 589 | 🐛 31 | 🌐 JavaScript | 📅 2021-06-22 - AngularJS OAuth2.
-* [angular2-token](https://github.com/neroniaky/angular2-token) ⭐ 367 | 🐛 49 | 🌐 TypeScript | 📅 2024-01-22 - Token based authentication service for Angular2 (ng2) with multi-user support. Works best with the devise token auth gem for Rails.
-* [ng2-ui-auth](https://github.com/ronzeidman/ng2-ui-auth) ⭐ 206 | 🐛 46 | 🌐 TypeScript | 📅 2024-07-04 - An angular2 repository for authentication based on angular1's satellizer.
+* [angular2-token](https://github.com/neroniaky/angular2-token) ⭐ 366 | 🐛 49 | 🌐 TypeScript | 📅 2024-01-22 - Token based authentication service for Angular2 (ng2) with multi-user support. Works best with the devise token auth gem for Rails.
+* [ng2-ui-auth](https://github.com/ronzeidman/ng2-ui-auth) ⭐ 205 | 🐛 46 | 🌐 TypeScript | 📅 2024-07-04 - An angular2 repository for authentication based on angular1's satellizer.
 * [@ngx-auth/core](https://github.com/fulls1z3/ngx-auth) ⭐ 56 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-21 - Authentication utility for Angular.
 
 ###### Event Handling
@@ -465,7 +465,7 @@
 
 ###### Persistence
 
-* [ng2-webstorage](https://github.com/PillowPillow/ng2-webstorage) ⭐ 426 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-04 - Localstorage and sessionstorage manager - angular2 service.
+* [ng2-webstorage](https://github.com/PillowPillow/ng2-webstorage) ⭐ 425 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-04 - Localstorage and sessionstorage manager - angular2 service.
 * [angular2-localstorage](https://github.com/marcj/angular2-localstorage) ⭐ 299 | 🐛 32 | 🌐 TypeScript | 📅 2020-10-02 - Angular2 decorator to save and restore variables/class properties to HTML5 LocalStorage automatically.
 * [@ngx-cache/core](https://github.com/fulls1z3/ngx-cache) ⭐ 152 | 🐛 15 | 🌐 TypeScript | 📅 2021-07-21 - Cache utility for Angular.
 * [angular-safeguard](https://github.com/MikaAK/angular-safeguard) ⭐ 73 | 🐛 21 | 🌐 TypeScript | 📅 2023-02-27 - Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
@@ -488,14 +488,14 @@
 
 ###### Validation
 
-* [ng2-validation](https://github.com/yuyang041060120/angular2-validate) ⭐ 601 | 🐛 76 | 🌐 TypeScript | 📅 2023-10-10 - Angular2 validation.
+* [ng2-validation](https://github.com/yuyang041060120/angular2-validate) ⭐ 600 | 🐛 76 | 🌐 TypeScript | 📅 2023-10-10 - Angular2 validation.
 * [ng-validators](https://github.com/gangachris/ng-validators) ⭐ 0 | 🐛 0 | 📅 2018-03-16 - A List of validators for Angular 2+ Forms based on validator.js.
 
 ###### i18n
 
 *Internationalization / L10n / localization / translation*
 
-* [@ngx-translate/core](https://github.com/ngx-translate/core) ⭐ 4,662 | 🐛 57 | 🌐 TypeScript | 📅 2026-09-26 - The internationalization (i18n) library for Angular 2+.
+* [@ngx-translate/core](https://github.com/ngx-translate/core) ⭐ 4,660 | 🐛 57 | 🌐 TypeScript | 📅 2026-09-26 - The internationalization (i18n) library for Angular 2+.
 * [angular-l10n](https://github.com/robisim74/angular-l10n) ⭐ 374 | 🐛 3 | 🌐 TypeScript | 📅 2025-06-18 - An Angular 2 library to translate messages, dates and numbers.
 * [@ngx-universal/translate-loader](https://github.com/fulls1z3/ngx-translate) ⚠️ Archived - Loader for @ngx-translate that provides translations to browser/server platforms.
 
@@ -534,7 +534,7 @@
 
 ###### Documentation
 
-* [compodoc](https://github.com/compodoc/compodoc) ⭐ 4,121 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-07 - The missing documentation tool for your Angular application.
+* [compodoc](https://github.com/compodoc/compodoc) ⭐ 4,119 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-07 - The missing documentation tool for your Angular application.
 
 ###### IoT
 
@@ -562,15 +562,15 @@
 
 *Integrate with services or other frameworks*
 
-* [angularfire2](https://github.com/angular/angularfire2) ⭐ 7,800 | 🐛 202 | 🌐 TypeScript | 📅 2026-10-05 - The official Angular 2 library for Firebase.
-* [ang2-jwt](https://github.com/auth0/angular2-jwt) ⭐ 2,622 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-03 - Helper library for handling JWTs in Angular 2 apps.
-* [angular2-meteor](https://github.com/Urigo/angular-meteor) ⭐ 2,332 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02 - Angular and Meteor - The perfect stack.
+* [angularfire2](https://github.com/angular/angularfire2) ⭐ 7,799 | 🐛 202 | 🌐 TypeScript | 📅 2026-10-05 - The official Angular 2 library for Firebase.
+* [ang2-jwt](https://github.com/auth0/angular2-jwt) ⭐ 2,621 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-03 - Helper library for handling JWTs in Angular 2 apps.
+* [angular2-meteor](https://github.com/Urigo/angular-meteor) ⭐ 2,330 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02 - Angular and Meteor - The perfect stack.
 * [angulartics2](https://github.com/angulartics/angulartics2) ⭐ 1,006 | 🐛 92 | 🌐 TypeScript | 📅 2026-01-13 - Vendor-agnostic analytics for Angular2 applications.
 * [angular2-react-native](https://github.com/angular/react-native-renderer) ⚠️ Archived - Use Angular 2 and React Native to build applications for Android and iOS.
 * [ng2-recaptcha](https://github.com/dethariel/ng2-recaptcha) ⭐ 474 | 🐛 25 | 🌐 TypeScript | 📅 2024-06-15 - Angular 2 component for Google reCAPTCHA.
 * [perfectedtech-loopback-sdk-builder](https://github.com/mean-expert-official/loopback-sdk-builder) ⭐ 398 | 🐛 118 | 🌐 HTML | 📅 2024-05-01 - Tool for auto-generating Software Development Kits (SDKs) for LoopBack.
 * [karma-typescript](https://github.com/monounity/karma-typescript) ⭐ 314 | 🐛 141 | 🌐 TypeScript | 📅 2023-05-23 - Simplifying running unit tests with coverage for Typescript projects.
-* [ng2-alfresco-core](https://github.com/Alfresco/alfresco-ng2-components) ⭐ 305 | 🐛 64 | 🌐 TypeScript | 📅 2026-10-08 - Alfresco Angular 2 components.
+* [ng2-alfresco-core](https://github.com/Alfresco/alfresco-ng2-components) ⭐ 305 | 🐛 61 | 🌐 TypeScript | 📅 2026-10-09 - Alfresco Angular 2 components.
 * [@cloudinary/angular](https://github.com/cloudinary/cloudinary_angular) ⭐ 302 | 🐛 10 | 🌐 TypeScript | 📅 2026-01-10 - Cloudinary Angular client library.
 * [wp-api-angular](https://github.com/shprink/wp-api-angular) ⭐ 259 | 🐛 12 | 🌐 TypeScript | 📅 2021-01-09 - Angular (>=2) services for WordPress WP-API(v2) or WP >= 4.7 (natively supports WP-API).
 * [meteor-rxjs](https://github.com/Urigo/mongo-rxjs-observable) ⭐ 120 | 🐛 62 | 🌐 TypeScript | 📅 2019-11-18 - Exposing Mongo Cursor as RxJS Observable.
@@ -587,7 +587,7 @@
 # Dev Tools
 
 * [Augury](https://github.com/rangle/augury) ⚠️ Archived - Angular 2 development tools for Chrome.
-* [@compodoc/ngd-cli](https://github.com/compodoc/ngd) ⭐ 610 | 🐛 21 | 🌐 TypeScript | 📅 2023-05-17 - View the dependencies tree of you Angular2 application.
+* [@compodoc/ngd-cli](https://github.com/compodoc/ngd) ⭐ 608 | 🐛 21 | 🌐 TypeScript | 📅 2023-05-17 - View the dependencies tree of you Angular2 application.
 * [angular-playground](https://github.com/SoCreate/angular-playground) ⭐ 450 | 🐛 17 | 🌐 TypeScript | 📅 2025-01-30 - A drop in app module for working on Angular components in isolation (Angular version 2.x and above).
 * [@ngrx/store-devtools](https://github.com/ngrx/store-devtools) ⚠️ Archived - Developer Tools for @ngrx/store.
 * [angular2-prettyjson](https://github.com/matiboy/angular2-prettyjson) ⭐ 41 | 🐛 3 | 🌐 JavaScript | 📅 2018-02-25 - Angular 2 debug output of objects. Contains a pipe similar to JsonPipe but adds support for spacing and handling of circular structures.
@@ -597,11 +597,11 @@
 
 *Boilerplate / scaffold / Yeoman generator / stack ensemble / seed*
 
-* [@angular/cli](https://github.com/angular/angular-cli) ⭐ 27,018 | 🐛 242 | 🌐 TypeScript | 📅 2026-10-07 - Official CLI tool for Angular.
-* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,207 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 - An Angular Starter kit featuring Angular 2 and Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass.
+* [@angular/cli](https://github.com/angular/angular-cli) ⭐ 27,016 | 🐛 237 | 🌐 TypeScript | 📅 2026-10-09 - Official CLI tool for Angular.
+* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,208 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 - An Angular Starter kit featuring Angular 2 and Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass.
 * [angular-seed](https://github.com/mgechev/angular-seed) ⭐ 4,518 | 🐛 21 | 🌐 TypeScript | 📅 2025-09-15 - Extensible, reliable and modular starter project for Angular 2 (and beyond) with statically typed build and AoT compilation.
 * [Colmena CMS](https://github.com/colmena/colmena-cms) ⚠️ Archived - Free and Open Source API and Admin powered by LoopBack and Angular.
-* [Angular 2 Webpack](https://github.com/preboot/angular2-webpack) ⭐ 1,268 | 🐛 58 | 🌐 JavaScript | 📅 2017-10-13 - A complete, yet simple, starter for Angular 2 using webpack
+* [Angular 2 Webpack](https://github.com/preboot/angular2-webpack) ⭐ 1,269 | 🐛 58 | 🌐 JavaScript | 📅 2017-10-13 - A complete, yet simple, starter for Angular 2 using webpack
 * [test-angular-seed-project](https://github.com/angular/angular2-seed) ⚠️ Archived - A simple starter Angular2 project.
 * [@ng-seed/universal](https://github.com/ng-seed/universal) ⭐ 700 | 🐛 27 | 🌐 TypeScript | 📅 2023-01-07 - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Material Design & Flexbox, Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, @ngrx/store, config, cache, i18n, SEO, angulartics2 and TSLint/codelyzer.
 * [generator-ng-fullstack](https://github.com/ericmdantas/generator-ng-fullstack) ⭐ 690 | 🐛 22 | 🌐 JavaScript | 📅 2024-07-12 - Client, server or fullstack - it's up to you. ng-fullstack gives you the best of the latest: Node, Go, http/2, Angular 1, Angular 2, Express, MongoDB, Gulp, Babel, Typescript and much more.
@@ -617,4 +617,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
