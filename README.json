@@ -80,7 +80,7 @@
                 "open_issues": 78,
                 "owner": "scttcper",
                 "repo": "ngx-toastr",
-                "stars": 2577,
+                "stars": 2578,
                 "topics": [
                   "angular",
                   "angular2",
@@ -133,7 +133,7 @@
                 "open_issues": 41,
                 "owner": "Stabzs",
                 "repo": "Angular2-Toaster",
-                "stars": 332,
+                "stars": 333,
                 "topics": [
                   "angular",
                   "angular2",
@@ -468,7 +468,7 @@
                 "open_issues": 131,
                 "owner": "CirclonGroup",
                 "repo": "angular-tree-component",
-                "stars": 1098,
+                "stars": 1099,
                 "topics": [
                   "angular",
                   "angular2",
@@ -731,7 +731,7 @@
                 "open_issues": 109,
                 "owner": "gevgeny",
                 "repo": "angular2-highcharts",
-                "stars": 375,
+                "stars": 376,
                 "topics": [
                   "angular",
                   "angular2-highcharts",
@@ -789,7 +789,7 @@
                 "open_issues": 64,
                 "owner": "sebholstein",
                 "repo": "angular-google-maps",
-                "stars": 2020,
+                "stars": 2019,
                 "topics": [
                   "agm",
                   "angular",
@@ -2056,7 +2056,7 @@
                     "open_issues": 99,
                     "owner": "mattlewis92",
                     "repo": "angular-calendar",
-                    "stars": 2811,
+                    "stars": 2810,
                     "topics": [
                       "angular",
                       "calendar",
@@ -2376,7 +2376,7 @@
                 "open_issues": 617,
                 "owner": "valor-software",
                 "repo": "ngx-bootstrap",
-                "stars": 5510,
+                "stars": 5511,
                 "topics": [
                   "angular",
                   "bootstrap",
@@ -2410,7 +2410,7 @@
                 "open_issues": 133,
                 "owner": "Teradata",
                 "repo": "covalent",
-                "stars": 2222,
+                "stars": 2223,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -2512,11 +2512,11 @@
                 "id": 49016322,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T20:11:42Z",
-                "open_issues": 1400,
+                "last_commit": "2026-11-10T09:30:11Z",
+                "open_issues": 1402,
                 "owner": "angular",
                 "repo": "components",
-                "stars": 25043,
+                "stars": 25044,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -2569,10 +2569,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-09T01:49:51Z",
-                "open_issues": 789,
+                "open_issues": 790,
                 "owner": "NG-ZORRO",
                 "repo": "ng-zorro-antd",
-                "stars": 9193,
+                "stars": 9192,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -2630,11 +2630,11 @@
                 "id": 51516387,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T11:29:18Z",
-                "open_issues": 137,
+                "last_commit": "2026-11-10T11:45:39Z",
+                "open_issues": 126,
                 "owner": "IgniteUI",
                 "repo": "igniteui-angular",
-                "stars": 599,
+                "stars": 600,
                 "topics": [
                   "angular",
                   "angular-charts",
@@ -2809,11 +2809,11 @@
                 "id": 12256376,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T02:59:07Z",
-                "open_issues": 529,
+                "last_commit": "2026-11-10T10:55:29Z",
+                "open_issues": 531,
                 "owner": "ionic-team",
                 "repo": "ionic-framework",
-                "stars": 52745,
+                "stars": 52746,
                 "topics": [
                   "angular",
                   "capacitor",
@@ -2897,7 +2897,7 @@
                 "open_issues": 496,
                 "owner": "akveo",
                 "repo": "ngx-admin",
-                "stars": 25667,
+                "stars": 25665,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -2950,7 +2950,7 @@
             "open_issues": 27,
             "owner": "fulls1z3",
             "repo": "universal",
-            "stars": 699,
+            "stars": 700,
             "topics": [
               "angular",
               "angular-cli",
@@ -3073,7 +3073,7 @@
                 "open_issues": 10,
                 "owner": "mobxjs",
                 "repo": "mobx-angular",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "angular",
                   "angular-mobx",
@@ -3143,7 +3143,7 @@
                 "open_issues": 31,
                 "owner": "the-guild-org",
                 "repo": "apollo-angular",
-                "stars": 1515,
+                "stars": 1514,
                 "topics": [
                   "angular",
                   "apollo-client",
@@ -3318,7 +3318,7 @@
                 "open_issues": 20,
                 "owner": "fknop",
                 "repo": "angular-pipes",
-                "stars": 722,
+                "stars": 723,
                 "topics": [
                   "angular",
                   "library",
@@ -3405,7 +3405,7 @@
                 "open_issues": 17,
                 "owner": "ngx-formly",
                 "repo": "ngx-formly",
-                "stars": 2969,
+                "stars": 2968,
                 "topics": [
                   "angular",
                   "bootstrap",
@@ -3467,7 +3467,7 @@
                 "open_issues": 38,
                 "owner": "ultimatecourses",
                 "repo": "ngx-errors",
-                "stars": 459,
+                "stars": 460,
                 "topics": [
                   "angular",
                   "reactive",
@@ -3530,7 +3530,7 @@
                 "open_issues": 37,
                 "owner": "2muchcoffeecom",
                 "repo": "ngx-restangular",
-                "stars": 774,
+                "stars": 775,
                 "topics": [
                   "angular",
                   "angular-2",
@@ -3846,7 +3846,7 @@
                 "open_issues": 30,
                 "owner": "Nolanus",
                 "repo": "ngx-page-scroll",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "anchor",
                   "angular",
@@ -4238,7 +4238,7 @@
                 "open_issues": 76,
                 "owner": "yuyang041060120",
                 "repo": "ng2-validation",
-                "stars": 600,
+                "stars": 601,
                 "topics": [
                   "angular2",
                   "validation"
@@ -4318,7 +4318,7 @@
                 "open_issues": 3,
                 "owner": "robisim74",
                 "repo": "angular-l10n",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "angular",
                   "localization",
@@ -4572,7 +4572,7 @@
                 "open_issues": 12,
                 "owner": "fulls1z3",
                 "repo": "ngx-meta",
-                "stars": 334,
+                "stars": 335,
                 "topics": [
                   "angular",
                   "angular2",
@@ -4669,7 +4669,7 @@
                 "open_issues": 30,
                 "owner": "ngParty",
                 "repo": "ng-metadata",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "angular",
                   "angularjs",
@@ -4721,11 +4721,11 @@
                 "id": 71109869,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T22:14:39Z",
+                "last_commit": "2026-11-10T00:46:43Z",
                 "open_issues": 51,
                 "owner": "compodoc",
                 "repo": "compodoc",
-                "stars": 4116,
+                "stars": 4117,
                 "topics": [
                   "angular",
                   "angular2",
@@ -4945,11 +4945,11 @@
             "id": 49453413,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T01:14:56Z",
-            "open_issues": 172,
+            "last_commit": "2026-11-10T04:29:36Z",
+            "open_issues": 170,
             "owner": "angular",
             "repo": "angularfire",
-            "stars": 7793,
+            "stars": 7794,
             "topics": [
               "angular",
               "angularfire",
@@ -5151,7 +5151,7 @@
             "open_issues": 141,
             "owner": "monounity",
             "repo": "karma-typescript",
-            "stars": 314,
+            "stars": 315,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:44.636Z"
@@ -5168,11 +5168,11 @@
             "id": 55400726,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T12:04:26Z",
-            "open_issues": 74,
+            "last_commit": "2026-11-10T10:49:13Z",
+            "open_issues": 68,
             "owner": "Alfresco",
             "repo": "alfresco-ng2-components",
-            "stars": 305,
+            "stars": 306,
             "topics": [
               "activiti",
               "adf",
@@ -5513,7 +5513,7 @@
             "open_issues": 21,
             "owner": "compodoc",
             "repo": "ngd",
-            "stars": 609,
+            "stars": 610,
             "topics": [
               "angular",
               "dependencies",
@@ -5612,7 +5612,7 @@
             "id": 36891867,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T10:12:45Z",
+            "last_commit": "2026-11-10T08:48:12Z",
             "open_issues": 213,
             "owner": "angular",
             "repo": "angular-cli",
@@ -5698,7 +5698,7 @@
             "open_issues": 11,
             "owner": "colmena",
             "repo": "colmena",
-            "stars": 1379,
+            "stars": 1380,
             "topics": [
               "angular",
               "colmena",
@@ -5775,7 +5775,7 @@
             "open_issues": 27,
             "owner": "fulls1z3",
             "repo": "universal",
-            "stars": 699,
+            "stars": 700,
             "topics": [
               "angular",
               "angular-cli",
@@ -5817,7 +5817,7 @@
             "open_issues": 22,
             "owner": "ericmdantas",
             "repo": "generator-ng-fullstack",
-            "stars": 691,
+            "stars": 692,
             "topics": [
               "angular",
               "client",
@@ -5855,7 +5855,7 @@
             "open_issues": 1,
             "owner": "antonybudianto",
             "repo": "angular-starter",
-            "stars": 513,
+            "stars": 514,
             "topics": [
               "angular",
               "gulp",
@@ -6046,7 +6046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:07:04.893Z",
+    "last_updated": "2026-11-10T11:46:03.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "Catalog of Angular 2+ Components & Libraries",
